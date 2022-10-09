@@ -18,30 +18,31 @@ $DESCRIPTION
 
     'links_page':  Template("""
 <dt>
-<h4>$NAME</h4>
+<h4>$NAME &lt- You Are Here</h4>
 <div class="url_display">$URL_DISPLAY</div>
 </dt>
 <dd>
 $DESCRIPTION
 </dd>
-""")
-}
+"""),
 
-link_template = Template("""
+    'strike':  Template("""
 <dt>
-<h4><a href="$URL">$NAME</a></h4>
-<div class="url_display"><a href="$URL">$URL_DISPLAY</a></div>
+<h4><strike>$NAME</strike></h4>
+<div class="url_display"><strike>$URL_DISPLAY</strike></div>
 </dt>
 <dd>
 $DESCRIPTION
 </dd>
 """)
 
+}
+
 
 with open('config.json') as _json:
     config = json.load(_json)
     links = config['links']
-    links.sort(key=lambda x: x['name'].lower())
+    links.sort(key=lambda x: x['name'].lower().replace('the ', ''))
     html_links = []
     for link in links:
         if 'type' not in link:
@@ -60,8 +61,6 @@ with open('config.json') as _json:
             ))
 
 
-
-    
     with open('template.html') as _template:
         template = Template(_template.read())
         with open('../../site/index.html', 'w') as _output:

@@ -151,7 +151,7 @@
     },
 
     {
-      "name": "Ideas!",
+      "name": "Ideas, Ideas, Ideas!",
       "display_url": "ideas.alanwsmith.com",
       "url": "https://ideas.alanwsmith.com/",
       "description": [
@@ -188,7 +188,7 @@
     },
 
     {
-      "name": "The Alphabet Site",
+      "name": "Letters, Letters, Letters!",
       "display_url": "letters.alanwsmith.com",
       "url": "https://letters.alanwsmith.com/",
       "description": [
@@ -198,74 +198,192 @@
     },
 
     {
-      "name": "",
-      "display_url": "",
-      "url": "",
-      "description": [],
-      "type": "main"
-    },
-    {
-      "name": "",
-      "display_url": "",
-      "url": "",
-      "description": [],
-      "type": "main"
-    },
-    {
-      "name": "",
-      "display_url": "",
-      "url": "",
-      "description": [],
-      "type": "main"
-    },
-    {
-      "name": "",
-      "display_url": "",
-      "url": "",
-      "description": [],
-      "type": "main"
-    },
-    {
-      "name": "",
-      "display_url": "",
-      "url": "",
-      "description": [],
-      "type": "main"
-    },
-    {
-      "name": "",
-      "display_url": "",
-      "url": "",
-      "description": [],
-      "type": "main"
-    },
-    {
-      "name": "",
-      "display_url": "",
-      "url": "",
-      "description": [],
-      "type": "main"
-    },
-    {
-      "name": "",
-      "display_url": "",
-      "url": "",
-      "description": [],
-      "type": "main"
-    },
-    {
-      "name": "",
-      "display_url": "",
-      "url": "",
-      "description": [],
+      "name": "Manic Scroll",
+      "display_url": "manic-scroll.alanwsmith.com",
+      "url": "http://manic-scroll.alanwsmith.com/",
+      "description": [
+        "A sample of the notes that I took during a manic bipolar episode.\nThere&apos;s nothing particularly profound about them. Just thought it\nmight be interesting to post them"
+      ],
       "type": "main"
     },
 
     {
-      "name": "",
-      "display_url": "",
-      "url": "",
-      "description": [],
+      "name": "Markdown Table Makder",
+      "display_url": "markdowntable.com",
+      "url": "http://markdowntable.com/",
+      "description": [
+        "A super basic table formatter for markdown. Eventually, I'll make it\nlive update and add more features, but it's handy as it is. (Though, I\nreally need to add dark mode)"
+      ],
+      "type": "main"
+    },
+
+    {
+      "name": "The Million Portrait Project",
+      "display_url": "MillionPortraitProject.com",
+      "url": "http://millionportraitproject.com/",
+      "description": [
+        "It's been on hiatus, and doesn't have a lot there yet, but this is my\nlong term photography project. (Fair warning that the site isn't\n          responsive. I didn't know how to do that when I made it)"
+      ],
+      "type": "main"
+    },
+
+    {
+      "name": "Minecraft Notes",
+      "display_url": "minecraft.alanwsmith.com",
+      "url": "https://minecraft.alanwsmith.com/",
+      "description": [
+        "My basic collection of minecraft notes so I don't have to look them up\nevery time. Another plain HTML file site that I'll be adding some\n    style too"
+      ],
+      "type": "main"
+    },
+
+    {
+      "name": "MonoCrack",
+      "display_url": "monocrack.alanwsmith.com",
+      "url": "https://monocrack.alanwsmith.com/",
+      "description": [
+        "A little game where you decrypt texts (Currently Offline)"
+      ],
+      "type": "strike"
+    },
+
+    {
+      "name": "Next.js Playgroud",
+      "display_url": "nextjs-playground.alanwsmith.com",
+      "url": "https://nextjs-playground.alanwsmith.com/",
+      "description": [
+        "My place to mess around with NextJs to figure out how it works - TODO: Move to Next.js Cookbook"
+      ],
+      "type": "main"
+    },
+
+    {
+      "name": "ngrok Quick QR Code",
+      "display_url": "ngrok-qr.alanwsmith.com",
+      "url": "https://ngrok-qr.alanwsmith.com/",
+      "description": [
+        "A quick place to send ngrok urls to your phone via qr codes"
+      ],
+      "type": "main"
+    },
+
+    {
+      "name": "photos.alanwsmith.com",
+      "display_url": "photos.alanwsmith.com",
+      "url": "https://photos.alanwsmith.com/",
+      "description": [
+        "Photography used to be my thing. It's what I was known for long before\nI got into code. During the years of getting my ass kicked by mental\nhealth issues, it left me. It was gone so long I'&apos;d gotten used\nto the idea that it was gone forever. Now, it&apos;s back. This is\nwhere I&apos;m posting my stuff"
+      ],
+      "type": "main"
+    },
+
+    {
+      "name": "HTML Only Pixel Art",
+      "display_url": "pixel-art.alanwsmith.com",
+      "url": "https://pixel-art.alanwsmith.com/",
+      "description": [
+        "This is an experiment to make pixel art using only an HTML table. It's\none of six using no JavaScript, CSS, or images. Just the HTML. It was\ninspired by\n<a href=\"https://twitter.com/whitep4nth3r/status/1510568114966171649\"\n>this tweet from whitep4nth3r</a\n>"
+      ],
+      "type": "main"
+    },
+
+    {
+      "name": "The Pod Of Alan Podcast",
+      "display_url": "podcast.alanwsmith.com",
+      "url": "https://podcast.alanwsmith.com/",
+      "description": [
+        "Home of The Pod Of Alan where I riff on working in public, making\nstuff, creativity, art, design, education, learning, language, mental\nhealth, movies, and music"
+      ],
+      "type": "main"
+    },
+
+    {
+      "name": "QR Code Clock",
+      "display_url": "qrclock.alanwsmith.com",
+      "url": "https://qrclock.alanwsmith.com/",
+      "description": [
+        "I wanted to see what would happen if you encoded time into a QR code.\nThis is it"
+      ],
+      "type": "main"
+    },
+
+    {
+      "name": "Reader For Docs",
+      "display_url": "https://reader.alanwsmith.com/",
+      "url": "https://reader.alanwsmith.com/",
+      "description": [
+        "The idea behind this one is to make it easier for me to read\ndocumentation. Or, really, to keep my place when I'm reading through\ndocs. Right now it's just the Org-mode manual split into individual\npages. The key is that it remembers what page I'm on so I just open\nthe site and pick up where I left off."
+      ],
+      "type": "main"
+    },
+
+    {
+      "name": "Roll. Tide. Roll.",
+      "display_url": "rtr.alanwsmith.com",
+      "url": "https://rtr.alanwsmith.com/",
+      "description": [
+        "Gotta have a Roll Tide site. On the TODO list is to figure out the\ncode that keeps all the words in view while filling the page as much\nas possible"
+      ],
+      "type": "main"
+    },
+
+    {
+      "name": "The Slides Of Alan",
+      "display_url": "slides.alanwsmith.com",
+      "url": "https://slides.alanwsmith.com/",
+      "description": [
+        "Gonna start putting slide decks here for talks and videos"
+      ],
+      "type": "main"
+    },
+
+    {
+      "name": "Static HTML Site Template",
+      "display_url": "static-template.alanwsmith.com",
+      "url": "https://static-template.alanwsmith.com/",
+      "description": [
+        "My basic template for starting sites without frameworks. Has sample\nfavicons and Open Graph image calls and will eventually have CSS and\nJS samples"
+      ],
+      "type": "main"
+    },
+
+    {
+      "name": "SurfTech.tv",
+      "display_url": "surftech.tv",
+      "url": "https://www.surftech.tv/",
+      "description": [
+        "This is a little project I built for myself so that when I've got a\nsome time to watch a tech video during lunch I don't have to worry\nabout finding one. This just plays a random one for me. Still have a\nbunch of features to add to this, but the basic functionality is nice"
+      ],
+      "type": "main"
+    },
+
+    {
+      "name": "Tailwind Playground",
+      "display_url": "tailwind-playground.alanwsmith.com",
+      "url": "https://tailwind-playground.alanwsmith.com/",
+      "description": [
+        "Messing around with TailwindCSS to figure out how things work"
+      ],
+      "type": "main"
+    },
+
+    {
+      "name": "Tutorial Thoughts",
+      "display_url": "tutorial-thoughts.alanwsmith.com",
+      "url": "https://tutorial-thoughts.alanwsmith.com/",
+      "description": [
+        "I find most coding tutorials frustrating. This is my place to\nexperiment with layouts, designs, and concepts that work with the way\nmy brain works"
+      ],
+      "type": "main"
+    },
+
+    {
+      "name": "Yabai Automation",
+      "display_url": "yabai.alanwsmith.com",
+      "url": "https://yabai.alanwsmith.com/",
+      "description": [
+        "I use <a href=\"https://github.com/koekeishiya/yabai\">Yabai</a> as a\ntiling window manager on my mac. This page has some scripts I use to\nautomatically move windows around based on which monitors I have\nconnected and what I'm doing"
+      ],
       "type": "main"
     }
   ]
