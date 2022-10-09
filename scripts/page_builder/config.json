@@ -23,6 +23,56 @@
       "display_url": "aws-price-list-api-values.alanwsmith.com",
       "url": "https://aws-price-list-api-values.alanwsmith.com/",
       "description": "<p>I had to dig through the AWS pricing APIs while working on an EC2 pricing comparison for blender rendering. It took a while to figure out how to get at the data. This is the initial data set you can use to filter requests. Hoping it helps save folks some time by not having to bang their heads against this part themselves.</p>"
-    }
+    },
+
+  {
+    "name": "The Name(s) Of My New Band",
+    "display_url": "band-names.alanwsmith.com",
+    "url": "https://band-names.alanwsmith.com/",
+    "description": "I&apos;m always on the look out for band names. I&apos;ve started collecting them here"
+  },
+
+  {
+    "name": "Bright Screen Flash Alert",
+    "display_url": "bright-screen-flash-alert.alanwsmith.com",
+    "url": "https://bright-screen-flash-alert.alanwsmith.com/",
+    "description": "Designed primarily for streams who work in dark mode. This plays a little yelling sound for chat when they hit a page without it."
+  },
+
+  {
+    "name": "Cloudinary Image Maker",
+    "display_url": "cloudinary-image-maker.alanwsmith.com",
+    "url": "https://cloudinary-image-maker.alanwsmith.com/",
+    "description": "  I got tired of trying to assemble Cloudinary urls. Took less time to make this than I spent trying to figure out how to apply text to an image by hand."
+  },
+
+  {
+    "name": "D3 Playground",
+    "display_url": "d3-playground.alanwsmith.com/",
+    "url": "https://d3-playground.alanwsmith.com/",
+    "description": "A place to mess around with D3. Just getting started on this one: TODO: Move this one to d3-cookbook"
+  },
+
+  {
+    "name": "Your Device Pixel Ratio",
+    "display_url": "dpr.alanwsmith.com",
+    "url": "https://dpr.alanwsmith.com/",
+    "description": "A single serving site that shows your current <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/Window/devicePixelRatio\">Device Pixel Ratio</a>"
+  },
+
+  {
+    "name": "EC2 Blender Renderer",
+    "display_url": "https://ec2-blender-renderer.alanwsmith.com/",
+    "url": "https://ec2-blender-renderer.alanwsmith.com/",
+    "description": "Taking a look at what it would cost to use Amazon AWS EC2 cloud computers to render Blender 3D images"
+  },
+
+  {
+    "name": "EC2 Simplified Price List",
+    "display_url": "ec2-price-list.alanwsmith.com",
+    "url": "https://ec2-price-list.alanwsmith.com/",
+    "description": "  I finally got fed up with how difficult it is to figure out EC2 pricing so I put this together. (The specific goal at the time was to price out the different GPU instances to look at blender rendering.)"
+  }
+
   ]
 }
