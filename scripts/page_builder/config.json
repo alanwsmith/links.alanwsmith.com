@@ -48,7 +48,7 @@
 
   {
     "name": "D3 Playground",
-    "display_url": "d3-playground.alanwsmith.com/",
+    "display_url": "d3-playground.alanwsmith.com",
     "url": "https://d3-playground.alanwsmith.com/",
     "description": "A place to mess around with D3. Just getting started on this one: TODO: Move this one to d3-cookbook"
   },
@@ -62,7 +62,7 @@
 
   {
     "name": "EC2 Blender Renderer",
-    "display_url": "https://ec2-blender-renderer.alanwsmith.com/",
+    "display_url": "ec2-blender-renderer.alanwsmith.com",
     "url": "https://ec2-blender-renderer.alanwsmith.com/",
     "description": "Taking a look at what it would cost to use Amazon AWS EC2 cloud computers to render Blender 3D images"
   },
@@ -72,6 +72,117 @@
     "display_url": "ec2-price-list.alanwsmith.com",
     "url": "https://ec2-price-list.alanwsmith.com/",
     "description": "  I finally got fed up with how difficult it is to figure out EC2 pricing so I put this together. (The specific goal at the time was to price out the different GPU instances to look at blender rendering.)"
+  },
+
+
+  {
+    "name": "Hacking",
+    "display_url": "hacking.alanwsmith.com",
+    "url": "https://hacking.alanwsmith.com/",
+    "description": "This is what hacking looks like. Also, another site that got 500 for charity as part of <a href=\"https://dusty.domains/\">Dusty Domains</a>"
+  },
+
+  {
+    "name": "Horsevatars",
+    "display_url": "horsevatars.alanwsmith.com",
+    "url": "https://horsevatars.alanwsmith.com/",
+    "description": "An experiment in making multi-color avatars for <a href=\"https://frontend.horse/\">Frontend Horse</a> "
+  },
+
+  {
+    "name": "HTML Only Animation",
+    "display_url": "html-animation.alanwsmith.com",
+    "url": "https://html-animation.alanwsmith.com/",
+    "description": "The forth experiment in the series six of making site/pages relying on only HTML without JavaScript, CSS, or images. This one produces an animation effect by using meta redirect tags to cycle between pages. (Note that you may have to close the page to stop it)"
+  },
+
+
+
+
+
+  {
+    "name": "HTML Only Display Board",
+    "display_url": "html-display-board.alanwsmith.com",
+    "url": "https://html-display-board.alanwsmith.com/",
+    "description": "  This was the fifth of the six experiments is seeing what can be done with only HTML (no JavaScript, CSS, or images). It uses the deprecated marquee tag to create a scrolling text display"
+  },
+
+
+  {
+    "name": "HTML Only Maze",
+    "display_url": "html-maze.alanwsmith.com",
+    "url": "https://html-maze.alanwsmith.com/",
+    "description": "Another of the six experiments to see what can be done with HTML alone. No JavaScript. No CSS. Just tags (including some deprecated ones)"
+  },
+
+  {
+    "name": "HTML Only Random Pattern",
+    "display_url": "html-random-pattern.alanwsmith.com",
+    "url": "https://html-random-pattern.alanwsmith.com/",
+    "description": "A grid with random colors. The sixth experiment with no javascript, css, or images"
+  },
+
+  {
+    "name": "",
+    "display_url": "",
+    "url": "",
+    "description": ""
+  },
+
+  {
+    "name": "",
+    "display_url": "",
+    "url": "",
+    "description": ""
+  },
+
+  {
+    "name": "",
+    "display_url": "",
+    "url": "",
+    "description": ""
+  },
+
+  {
+    "name": "",
+    "display_url": "",
+    "url": "",
+    "description": ""
+  },
+
+  {
+    "name": "",
+    "display_url": "",
+    "url": "",
+    "description": ""
+  },
+
+  {
+    "name": "",
+    "display_url": "",
+    "url": "",
+    "description": ""
+  },
+
+  {
+    "name": "",
+    "display_url": "",
+    "url": "",
+    "description": ""
+  },
+
+  {
+    "name": "",
+    "display_url": "",
+    "url": "",
+    "description": ""
+  },
+
+  {
+    "name": "",
+    "display_url": "",
+    "url": "",
+    "description": ""
   }
 
   ]
