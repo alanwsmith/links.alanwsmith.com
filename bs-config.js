@@ -14,4 +14,5 @@ module.exports = {
         },
     },
     watch: true,
+    watchEvents: ['change', 'add', 'unlink', 'addDir', 'unlinkDir'],
 }
