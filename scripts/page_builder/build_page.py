@@ -18,7 +18,7 @@ $DESCRIPTION
 
     'links_page':  Template("""
 <dt>
-<h4>$NAME &lt;- You Are Here</h4>
+<h4>$NAME</h4>
 <div class="url_display">$URL_DISPLAY</div>
 </dt>
 <dd>
@@ -52,7 +52,7 @@ with open('config.json') as _json:
                 DESCRIPTION=f"<p>{'</p><p>'.join(link['description'])}</p>"
             ))
         else:
-            html_links.append(link_templates['links_page'].substitute(
+            html_links.append(link_templates[link['type']].substitute(
                 NAME=link['name'],
                 URL=link['url'],
                 URL_DISPLAY=link['display_url'],
