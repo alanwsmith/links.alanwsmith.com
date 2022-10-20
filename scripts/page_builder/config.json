@@ -1,6 +1,14 @@
 {
   "links": [
     {
+      "name": "The Art Of Alan",
+      "display_url": "art.alanwsmith.com",
+      "url": "https://art.alanwsmith.com/",
+      "description": [
+        "Historically, I've been a photographer. These days, I'm getting into Processing and Blender. This is where I'm posting those pieces."
+      ]
+    },
+    {
       "name": "alanwsmith.com",
       "display_url": "www.alanwsmith.com",
       "url": "https://www.alanwsmith.com/",
