@@ -38,11 +38,12 @@ $DESCRIPTION
 
 }
 
-
 with open('config.json') as _json:
     config = json.load(_json)
     links = config['links']
-    links.sort(key=lambda x: x['name'].lower().replace('the ', ''))
+    print(f"Total links: {len(links)}")
+    # links.sort(key=lambda x: x['name'].lower().replace('the ', ''))
+    links.sort(key=lambda x: x['name'].lower())
     html_links = []
     for link in links:
         if 'type' not in link:
@@ -59,25 +60,10 @@ with open('config.json') as _json:
                 URL_DISPLAY=link['display_url'],
                 DESCRIPTION=f"<p>{'</p><p>'.join(link['description'])}</p>"
             ))
-
-
     with open('template.html') as _template:
         template = Template(_template.read())
         with open('../../site/index.html', 'w') as _output:
             _output.write(template.substitute(
                 DETAILS="".join(html_links)
             ))
-
-
-
-
-
-
-# with open('template.html') as _template:
-#     template = Template(_template.read())
-#     output = template.substitute(
-#         name="Karl",
-#         color="Green"
-#     )
-#     print(output)
 
