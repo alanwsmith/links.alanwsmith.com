@@ -1,6 +1,14 @@
 {
   "links": [
     {
+      "name": "Fonts and Colors",
+      "display_url": "art.alanwsmith.com",
+      "url": "https://art.alanwsmith.com/",
+      "description": [
+        "I'm not good at color swabs or fonts in issolation. I built this so I don't have to be. Changes show up directly on an moke page."
+      ]
+    },
+    {
       "name": "The Art Of Alan",
       "display_url": "art.alanwsmith.com",
       "url": "https://art.alanwsmith.com/",
