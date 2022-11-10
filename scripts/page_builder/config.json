@@ -1,11 +1,19 @@
 {
   "links": [
     {
-      "name": "Fonts and Colors",
-      "display_url": "art.alanwsmith.com",
-      "url": "https://art.alanwsmith.com/",
+      "name": "Blender Chess Pieces",
+      "display_url": "chess.alanwsmith.com",
+      "url": "https://chess.alanwsmith.com/",
       "description": [
-        "I'm not good at color swabs or fonts in issolation. I built this so I don't have to be. Changes show up directly on an moke page."
+        "I started playing around with Blender to give me something to do that's not coding. Sure, it's still on a computer, but it kicks the visual part of my brain into gear which is a nice change of pace. "
+      ]
+    },
+    {
+      "name": "Fonts and Colors",
+      "display_url": "fonts-and-colors.alanwsmith.com",
+      "url": "https://fonts-and-colors.alanwsmith.com/",
+      "description": [
+        "I'm not good at color swabs or fonts in isolation. I built this so I don't have to be. Changes show up directly on the page."
       ]
     },
     {
@@ -264,7 +272,7 @@
     },
 
     {
-      "name": "Next.js Playgroud",
+      "name": "Next.js Playground",
       "display_url": "nextjs-playground.alanwsmith.com",
       "url": "https://nextjs-playground.alanwsmith.com/",
       "description": [
