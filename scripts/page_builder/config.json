@@ -1,430 +1,440 @@
 {
-    "links": [
-        {
-            "name": "Decovar Random",
-            "display_url": "decovar-random.alanwsmith.com",
-            "url": "https://decovar-random.alanwsmith.com/",
-            "description": [
-                "This is the second experiment (that I like better) of randomly adjusting a variables on a variable font. This one is Decovar. (The first was Roboto Flex which is linked below)."
-            ]
-        },
-        {
-            "name": "Roboto Random",
-            "display_url": "roboto-random.alanwsmith.com",
-            "url": "https://roboto-random.alanwsmith.com/",
-            "description": [
-                "This is an experiment with the Roboto Flex variable font. Every second and a half, one of the thirteen adjustable parameters is updated randomly"
-            ]
-        },
-        {
-            "name": "Blender Chess Pieces",
-            "display_url": "chess.alanwsmith.com",
-            "url": "https://chess.alanwsmith.com/",
-            "description": [
-                "I started playing around with Blender to give me something to do that's not coding. Sure, it's still on a computer, but it kicks the visual part of my brain into gear which is a nice change of pace. "
-            ]
-        },
-        {
-            "name": "Fonts and Colors",
-            "display_url": "fonts-and-colors.alanwsmith.com",
-            "url": "https://fonts-and-colors.alanwsmith.com/",
-            "description": [
-                "I'm not good at color swabs or fonts in isolation. I built this so I don't have to be. Changes show up directly on the page."
-            ]
-        },
-        {
-            "name": "The Art Of Alan",
-            "display_url": "art.alanwsmith.com",
-            "url": "https://art.alanwsmith.com/",
-            "description": [
-                "Historically, I've been a photographer. These days, I'm getting into Processing and Blender. This is where I'm posting those pieces."
-            ]
-        },
-        {
-            "name": "alanwsmith.com",
-            "display_url": "www.alanwsmith.com",
-            "url": "https://www.alanwsmith.com/",
-            "description": [
-                "The place where it all began. This is my main site/blog. It&apos;s personal so I post about whatever happens to have my interest. Music, movies, code, having bipolar disorder, whatever. It's also not organized right now. It's just an alphabetical listing of links. Improving that is definitely on the to-do list."
-            ]
-        },
-        {
-            "name": "Are You Currently Alive",
-            "display_url": "AreYouCurrentlyAlive.alanwsmith.com",
-            "url": "https://areyoucurrentlyalive.alanwsmith.com/",
-            "description": [
-                "Build this one in the spirit of <a href=\"http://www.hasthelargehadroncolliderdestroyedtheworldyet.com/\">Has The Large Hadron Collider Destroyed The World Yet.com</a> for Netlify's 2021 <a href=\"https://dusty.domains/\">Dusty Domains</a>. The little page was worth $500 to charity."
-            ]
-        },
-        {
-            "name": "ASCII Art",
-            "display_url": "ascii-art.alanwsmith.com",
-            "url": "https://ascii-art.alanwsmith.com/",
-            "description": [
-                "A few famous pieces of art turned into ASCII. This is one of five experiments in making a site out of just HTML. There&apos;s no JavaScript, CSS, or image calls. Just the HTML. The idea came from <a href=\"https://twitter.com/whitep4nth3r/status/1510568114966171649\">this tweet from whitep4nth3r</a> about HTML only web sites."
-            ]
-        },
-        {
-            "name": "AWS API Price List Values",
-            "display_url": "aws-price-list-api-values.alanwsmith.com",
-            "url": "https://aws-price-list-api-values.alanwsmith.com/",
-            "description": [
-                "I had to dig through the AWS pricing APIs while working on an EC2 pricing comparison for blender rendering. It took a while to figure out how to get at the data. This is the initial data set you can use to filter requests. Hoping it helps save folks some time by not having to bang their heads against this part themselves."
-            ]
-        },
+  "links": [
+    {
+      "name": "Decovar Random",
+      "display_url": "decovar-random.alanwsmith.com",
+      "url": "https://decovar-random.alanwsmith.com/",
+      "description": [
+        "This is the second experiment (that I like better) of randomly adjusting a variables on a variable font. This one is Decovar. (The first was Roboto Flex which is linked below)."
+      ]
+    },
+    {
+      "name": "Roboto Random",
+      "display_url": "roboto-random.alanwsmith.com",
+      "url": "https://roboto-random.alanwsmith.com/",
+      "description": [
+        "This is an experiment with the Roboto Flex variable font. Every second and a half, one of the thirteen adjustable parameters is updated randomly"
+      ]
+    },
+    {
+      "name": "Blender Chess Pieces",
+      "display_url": "chess.alanwsmith.com",
+      "url": "https://chess.alanwsmith.com/",
+      "description": [
+        "I started playing around with Blender to give me something to do that's not coding. Sure, it's still on a computer, but it kicks the visual part of my brain into gear which is a nice change of pace. "
+      ]
+    },
+    {
+      "name": "Fonts and Colors",
+      "display_url": "fonts-and-colors.alanwsmith.com",
+      "url": "https://fonts-and-colors.alanwsmith.com/",
+      "description": [
+        "I'm not good at color swabs or fonts in isolation. I built this so I don't have to be. Changes show up directly on the page."
+      ]
+    },
+    {
+      "name": "The Art Of Alan",
+      "display_url": "art.alanwsmith.com",
+      "url": "https://art.alanwsmith.com/",
+      "description": [
+        "Historically, I've been a photographer. These days, I'm getting into Processing and Blender. This is where I'm posting those pieces."
+      ]
+    },
+    {
+      "name": "alanwsmith.com",
+      "display_url": "www.alanwsmith.com",
+      "url": "https://www.alanwsmith.com/",
+      "description": [
+        "The place where it all began. This is my main site/blog. It&apos;s personal so I post about whatever happens to have my interest. Music, movies, code, having bipolar disorder, whatever. It's also not organized right now. It's just an alphabetical listing of links. Improving that is definitely on the to-do list."
+      ]
+    },
+    {
+      "name": "Are You Currently Alive",
+      "display_url": "AreYouCurrentlyAlive.alanwsmith.com",
+      "url": "https://areyoucurrentlyalive.alanwsmith.com/",
+      "description": [
+        "Build this one in the spirit of <a href=\"http://www.hasthelargehadroncolliderdestroyedtheworldyet.com/\">Has The Large Hadron Collider Destroyed The World Yet.com</a> for Netlify's 2021 <a href=\"https://dusty.domains/\">Dusty Domains</a>. The little page was worth $500 to charity."
+      ]
+    },
+    {
+      "name": "ASCII Art",
+      "display_url": "ascii-art.alanwsmith.com",
+      "url": "https://ascii-art.alanwsmith.com/",
+      "description": [
+        "A few famous pieces of art turned into ASCII. This is one of five experiments in making a site out of just HTML. There&apos;s no JavaScript, CSS, or image calls. Just the HTML. The idea came from <a href=\"https://twitter.com/whitep4nth3r/status/1510568114966171649\">this tweet from whitep4nth3r</a> about HTML only web sites."
+      ]
+    },
+    {
+      "name": "AWS API Price List Values",
+      "display_url": "aws-price-list-api-values.alanwsmith.com",
+      "url": "https://aws-price-list-api-values.alanwsmith.com/",
+      "description": [
+        "I had to dig through the AWS pricing APIs while working on an EC2 pricing comparison for blender rendering. It took a while to figure out how to get at the data. This is the initial data set you can use to filter requests. Hoping it helps save folks some time by not having to bang their heads against this part themselves."
+      ]
+    },
 
-        {
-            "name": "The Name(s) Of My New Band",
-            "display_url": "band-names.alanwsmith.com",
-            "url": "https://band-names.alanwsmith.com/",
-            "description": [
-                "I&apos;m always on the look out for band names. I&apos;ve started collecting them here"
-            ]
-        },
+    {
+      "name": "The Name(s) Of My New Band",
+      "display_url": "band-names.alanwsmith.com",
+      "url": "https://band-names.alanwsmith.com/",
+      "description": [
+        "I&apos;m always on the look out for band names. I&apos;ve started collecting them here"
+      ]
+    },
 
-        {
-            "name": "Bright Screen Flash Alert",
-            "display_url": "bright-screen-flash-alert.alanwsmith.com",
-            "url": "https://bright-screen-flash-alert.alanwsmith.com/",
-            "description": [
-                "Designed primarily for streams who work in dark mode. This plays a little yelling sound for chat when they hit a page without it."
-            ]
-        },
+    {
+      "name": "Bright Screen Flash Alert",
+      "display_url": "bright-screen-flash-alert.alanwsmith.com",
+      "url": "https://bright-screen-flash-alert.alanwsmith.com/",
+      "description": [
+        "Designed primarily for streams who work in dark mode. This plays a little yelling sound for chat when they hit a page without it."
+      ]
+    },
 
-        {
-            "name": "Cloudinary Image Maker",
-            "display_url": "cloudinary-image-maker.alanwsmith.com",
-            "url": "https://cloudinary-image-maker.alanwsmith.com/",
-            "description": [
-                "I got tired of trying to assemble Cloudinary urls. Took less time to make this than I spent trying to figure out how to apply text to an image by hand."
-            ]
-        },
+    {
+      "name": "Cloudinary Image Maker",
+      "display_url": "cloudinary-image-maker.alanwsmith.com",
+      "url": "https://cloudinary-image-maker.alanwsmith.com/",
+      "description": [
+        "I got tired of trying to assemble Cloudinary urls. Took less time to make this than I spent trying to figure out how to apply text to an image by hand."
+      ]
+    },
 
-        {
-            "name": "D3 Playground",
-            "display_url": "d3-playground.alanwsmith.com",
-            "url": "https://d3-playground.alanwsmith.com/",
-            "description": [
-                "A place to mess around with D3. Just getting started on this one: TODO: Move this one to d3-cookbook"
-            ]
-        },
+    {
+      "name": "D3 Playground",
+      "display_url": "d3-playground.alanwsmith.com",
+      "url": "https://d3-playground.alanwsmith.com/",
+      "description": [
+        "A place to mess around with D3. Just getting started on this one: TODO: Move this one to d3-cookbook"
+      ]
+    },
 
-        {
-            "name": "Your Device Pixel Ratio",
-            "display_url": "dpr.alanwsmith.com",
-            "url": "https://dpr.alanwsmith.com/",
-            "description": [
-                "A single serving site that shows your current <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/Window/devicePixelRatio\">Device Pixel Ratio</a>"
-            ]
-        },
+    {
+      "name": "Your Device Pixel Ratio",
+      "display_url": "dpr.alanwsmith.com",
+      "url": "https://dpr.alanwsmith.com/",
+      "description": [
+        "A single serving site that shows your current <a href=\"https://developer.mozilla.org/en-US/docs/Web/API/Window/devicePixelRatio\">Device Pixel Ratio</a>"
+      ]
+    },
 
-        {
-            "name": "EC2 Blender Renderer",
-            "display_url": "ec2-blender-renderer.alanwsmith.com",
-            "url": "https://ec2-blender-renderer.alanwsmith.com/",
-            "description": [
-                "Taking a look at what it would cost to use Amazon AWS EC2 cloud computers to render Blender 3D images"
-            ]
-        },
+    {
+      "name": "EC2 Blender Renderer",
+      "display_url": "ec2-blender-renderer.alanwsmith.com",
+      "url": "https://ec2-blender-renderer.alanwsmith.com/",
+      "description": [
+        "Taking a look at what it would cost to use Amazon AWS EC2 cloud computers to render Blender 3D images"
+      ]
+    },
 
-        {
-            "name": "EC2 Simplified Price List",
-            "display_url": "ec2-price-list.alanwsmith.com",
-            "url": "https://ec2-price-list.alanwsmith.com/",
-            "description": [
-                "I finally got fed up with how difficult it is to figure out EC2 pricing so I put this together. (The specific goal at the time was to price out the different GPU instances to look at blender rendering.)"
-            ]
-        },
+    {
+      "name": "EC2 Simplified Price List",
+      "display_url": "ec2-price-list.alanwsmith.com",
+      "url": "https://ec2-price-list.alanwsmith.com/",
+      "description": [
+        "I finally got fed up with how difficult it is to figure out EC2 pricing so I put this together. (The specific goal at the time was to price out the different GPU instances to look at blender rendering.)"
+      ]
+    },
 
-        {
-            "name": "Hacking",
-            "display_url": "hacking.alanwsmith.com",
-            "url": "https://hacking.alanwsmith.com/",
-            "description": [
-                "This is what hacking looks like. Also, another site that got 500 for charity as part of <a href=\"https://dusty.domains/\">Dusty Domains</a>"
-            ]
-        },
+    {
+      "name": "Hacking",
+      "display_url": "hacking.alanwsmith.com",
+      "url": "https://hacking.alanwsmith.com/",
+      "description": [
+        "This is what hacking looks like. Also, another site that got 500 for charity as part of <a href=\"https://dusty.domains/\">Dusty Domains</a>"
+      ]
+    },
 
-        {
-            "name": "Horsevatars",
-            "display_url": "horsevatars.alanwsmith.com",
-            "url": "https://horsevatars.alanwsmith.com/",
-            "description": [
-                "An experiment in making multi-color avatars for <a href=\"https://frontend.horse/\">Frontend Horse</a> "
-            ]
-        },
+    {
+      "name": "Horsevatars",
+      "display_url": "horsevatars.alanwsmith.com",
+      "url": "https://horsevatars.alanwsmith.com/",
+      "description": [
+        "An experiment in making multi-color avatars for <a href=\"https://frontend.horse/\">Frontend Horse</a> "
+      ]
+    },
 
-        {
-            "name": "HTML Only Animation",
-            "display_url": "html-animation.alanwsmith.com",
-            "url": "https://html-animation.alanwsmith.com/",
-            "description": [
-                "The forth experiment in the series six of making site/pages relying on only HTML without JavaScript, CSS, or images. This one produces an animation effect by using meta redirect tags to cycle between pages. (Note that you may have to close the page to stop it)"
-            ]
-        },
+    {
+      "name": "HTML Only Animation",
+      "display_url": "html-animation.alanwsmith.com",
+      "url": "https://html-animation.alanwsmith.com/",
+      "description": [
+        "The forth experiment in the series six of making site/pages relying on only HTML without JavaScript, CSS, or images. This one produces an animation effect by using meta redirect tags to cycle between pages. (Note that you may have to close the page to stop it)"
+      ]
+    },
 
-        {
-            "name": "HTML Only Display Board",
-            "display_url": "html-display-board.alanwsmith.com",
-            "url": "https://html-display-board.alanwsmith.com/",
-            "description": [
-                "This was the fifth of the six experiments is seeing what can be done with only HTML (no JavaScript, CSS, or images). It uses the deprecated marquee tag to create a scrolling text display"
-            ]
-        },
+    {
+      "name": "HTML Only Display Board",
+      "display_url": "html-display-board.alanwsmith.com",
+      "url": "https://html-display-board.alanwsmith.com/",
+      "description": [
+        "This was the fifth of the six experiments is seeing what can be done with only HTML (no JavaScript, CSS, or images). It uses the deprecated marquee tag to create a scrolling text display"
+      ]
+    },
 
-        {
-            "name": "HTML Only Maze",
-            "display_url": "html-maze.alanwsmith.com",
-            "url": "https://html-maze.alanwsmith.com/",
-            "description": [
-                "Another of the six experiments to see what can be done with HTML alone. No JavaScript. No CSS. Just tags (including some deprecated ones)"
-            ]
-        },
+    {
+      "name": "HTML Only Maze",
+      "display_url": "html-maze.alanwsmith.com",
+      "url": "https://html-maze.alanwsmith.com/",
+      "description": [
+        "Another of the six experiments to see what can be done with HTML alone. No JavaScript. No CSS. Just tags (including some deprecated ones)"
+      ]
+    },
 
-        {
-            "name": "HTML Only Random Pattern",
-            "display_url": "html-random-pattern.alanwsmith.com",
-            "url": "https://html-random-pattern.alanwsmith.com/",
-            "description": [
-                "A grid with random colors. The sixth experiment with no javascript, css, or images"
-            ]
-        },
+    {
+      "name": "HTML Only Random Pattern",
+      "display_url": "html-random-pattern.alanwsmith.com",
+      "url": "https://html-random-pattern.alanwsmith.com/",
+      "description": [
+        "A grid with random colors. The sixth experiment with no javascript, css, or images"
+      ]
+    },
 
-        {
-            "name": "Ideas, Ideas, Ideas!",
-            "display_url": "ideas.alanwsmith.com",
-            "url": "https://ideas.alanwsmith.com/",
-            "description": [
-                "A collection of ideas for programming projects if you need something to help get you started"
-            ]
-        },
+    {
+      "name": "Ideas, Ideas, Ideas!",
+      "display_url": "ideas.alanwsmith.com",
+      "url": "https://ideas.alanwsmith.com/",
+      "description": [
+        "A collection of ideas for programming projects if you need something to help get you started"
+      ]
+    },
 
-        {
-            "name": "The Shiny Blog Of Jack Torrance",
-            "display_url": "jacktorrance.blog",
-            "url": "https://jacktorrance.blog/",
-            "description": [
-                "An homage to The Shining. It's also what I had my site doing <a href=\"https://web.archive.org/web/20010721234034/http://www.alanwsmith.com/\">way back in 2001</a>"
-            ]
-        },
+    {
+      "name": "The Shiny Blog Of Jack Torrance",
+      "display_url": "jacktorrance.blog",
+      "url": "https://jacktorrance.blog/",
+      "description": [
+        "An homage to The Shining. It's also what I had my site doing <a href=\"https://web.archive.org/web/20010721234034/http://www.alanwsmith.com/\">way back in 2001</a>"
+      ]
+    },
 
-        {
-            "name": "JavaScript Playground",
-            "display_url": "javascript-playground.alanwsmith.com",
-            "url": "https://javascript-playground.alanwsmith.com/",
-            "description": [
-                "A place for me to mess around with javascript to create snippets for\nboth understanding how things work and to use to copy into other code"
-            ]
-        },
+    {
+      "name": "JavaScript Playground",
+      "display_url": "javascript-playground.alanwsmith.com",
+      "url": "https://javascript-playground.alanwsmith.com/",
+      "description": [
+        "A place for me to mess around with javascript to create snippets for\nboth understanding how things work and to use to copy into other code"
+      ]
+    },
 
-        {
-            "name": "Links Page",
-            "display_url": "links.alanwsmith.com",
-            "url": "https://links.alanwsmith.com/",
-            "description": [
-                "Pointers to my tools, projects, and playgrounds and a pitch for making\nsub-domain digital gardens. But you already know that since you're looking at the page :-)"
-            ],
-            "type": "links_page"
-        },
+    {
+      "name": "Links Page",
+      "display_url": "links.alanwsmith.com",
+      "url": "https://links.alanwsmith.com/",
+      "description": [
+        "Pointers to my tools, projects, and playgrounds and a pitch for making\nsub-domain digital gardens. But you already know that since you're looking at the page :-)"
+      ],
+      "type": "links_page"
+    },
 
-        {
-            "name": "Letters, Letters, Letters!",
-            "display_url": "letters.alanwsmith.com",
-            "url": "https://letters.alanwsmith.com/",
-            "description": [
-                "You're number one source for links to my letters of the alphabet\nsites. I made them as part of my &quot;<a\n            href=\"https://www.alanwsmith.com/posts/28dakarfdsyq--how-to-grow-your-digital-garden-with-subdomains\"\n            >How To Grow Your Digital Garden With Sub-Domains</a\n          >&quot; post. (Here's direct letter access if you're looking for that:\n\n          <a href=\"https://a.alanwsmith.com/\">a</a>,\n          <a href=\"https://b.alanwsmith.com/\">b</a>,\n          <a href=\"https://c.alanwsmith.com/\">c</a>,\n          <a href=\"https://d.alanwsmith.com/\">d</a>,\n          <a href=\"https://e.alanwsmith.com/\">e</a>,\n          <a href=\"https://f.alanwsmith.com/\">f</a>,\n          <a href=\"https://g.alanwsmith.com/\">g</a>,\n          <a href=\"https://h.alanwsmith.com/\">h</a>,\n          <a href=\"https://i.alanwsmith.com/\">i</a>,\n          <a href=\"https://j.alanwsmith.com/\">j</a>,\n          <a href=\"https://k.alanwsmith.com/\">k</a>,\n          <a href=\"https://l.alanwsmith.com/\">l</a>,\n          <a href=\"https://m.alanwsmith.com/\">m</a>,\n          <a href=\"https://n.alanwsmith.com/\">n</a>,\n          <a href=\"https://o.alanwsmith.com/\">o</a>,\n          <a href=\"https://p.alanwsmith.com/\">p</a>,\n          <a href=\"https://q.alanwsmith.com/\">q</a>,\n          <a href=\"https://r.alanwsmith.com/\">r</a>,\n          <a href=\"https://s.alanwsmith.com/\">s</a>,\n          <a href=\"https://t.alanwsmith.com/\">t</a>,\n          <a href=\"https://u.alanwsmith.com/\">u</a>,\n          <a href=\"https://v.alanwsmith.com/\">v</a>,\n          <a href=\"https://w.alanwsmith.com/\">w</a>,\n          <a href=\"https://x.alanwsmith.com/\">x</a>,\n          <a href=\"https://y.alanwsmith.com/\">y</a>,\n          <a href=\"https://z.alanwsmith.com/\">z</a>. )"
-            ],
-            "type": "main"
-        },
+    {
+      "name": "Letters, Letters, Letters!",
+      "display_url": "letters.alanwsmith.com",
+      "url": "https://letters.alanwsmith.com/",
+      "description": [
+        "You're number one source for links to my letters of the alphabet\nsites. I made them as part of my &quot;<a\n            href=\"https://www.alanwsmith.com/posts/28dakarfdsyq--how-to-grow-your-digital-garden-with-subdomains\"\n            >How To Grow Your Digital Garden With Sub-Domains</a\n          >&quot; post. (Here's direct letter access if you're looking for that:\n\n          <a href=\"https://a.alanwsmith.com/\">a</a>,\n          <a href=\"https://b.alanwsmith.com/\">b</a>,\n          <a href=\"https://c.alanwsmith.com/\">c</a>,\n          <a href=\"https://d.alanwsmith.com/\">d</a>,\n          <a href=\"https://e.alanwsmith.com/\">e</a>,\n          <a href=\"https://f.alanwsmith.com/\">f</a>,\n          <a href=\"https://g.alanwsmith.com/\">g</a>,\n          <a href=\"https://h.alanwsmith.com/\">h</a>,\n          <a href=\"https://i.alanwsmith.com/\">i</a>,\n          <a href=\"https://j.alanwsmith.com/\">j</a>,\n          <a href=\"https://k.alanwsmith.com/\">k</a>,\n          <a href=\"https://l.alanwsmith.com/\">l</a>,\n          <a href=\"https://m.alanwsmith.com/\">m</a>,\n          <a href=\"https://n.alanwsmith.com/\">n</a>,\n          <a href=\"https://o.alanwsmith.com/\">o</a>,\n          <a href=\"https://p.alanwsmith.com/\">p</a>,\n          <a href=\"https://q.alanwsmith.com/\">q</a>,\n          <a href=\"https://r.alanwsmith.com/\">r</a>,\n          <a href=\"https://s.alanwsmith.com/\">s</a>,\n          <a href=\"https://t.alanwsmith.com/\">t</a>,\n          <a href=\"https://u.alanwsmith.com/\">u</a>,\n          <a href=\"https://v.alanwsmith.com/\">v</a>,\n          <a href=\"https://w.alanwsmith.com/\">w</a>,\n          <a href=\"https://x.alanwsmith.com/\">x</a>,\n          <a href=\"https://y.alanwsmith.com/\">y</a>,\n          <a href=\"https://z.alanwsmith.com/\">z</a>. )"
+      ],
+      "type": "main"
+    },
 
-        {
-            "name": "Manic Scroll",
-            "display_url": "manic-scroll.alanwsmith.com",
-            "url": "http://manic-scroll.alanwsmith.com/",
-            "description": [
-                "A sample of the notes that I took during a manic bipolar episode.\nThere&apos;s nothing particularly profound about them. Just thought it\nmight be interesting to post them"
-            ],
-            "type": "main"
-        },
+    {
+      "name": "Manic Scroll",
+      "display_url": "manic-scroll.alanwsmith.com",
+      "url": "http://manic-scroll.alanwsmith.com/",
+      "description": [
+        "A sample of the notes that I took during a manic bipolar episode.\nThere&apos;s nothing particularly profound about them. Just thought it\nmight be interesting to post them"
+      ],
+      "type": "main"
+    },
 
-        {
-            "name": "Markdown Table Maker",
-            "display_url": "markdowntable.com",
-            "url": "http://markdowntable.com/",
-            "description": [
-                "A super basic table formatter for markdown. Eventually, I'll make it\nlive update and add more features, but it's handy as it is. (Though, I\nreally need to add dark mode)"
-            ],
-            "type": "main"
-        },
+    {
+      "name": "Markdown Table Maker",
+      "display_url": "markdowntable.com",
+      "url": "http://markdowntable.com/",
+      "description": [
+        "A super basic table formatter for markdown. Eventually, I'll make it\nlive update and add more features, but it's handy as it is. (Though, I\nreally need to add dark mode)"
+      ],
+      "type": "main"
+    },
 
-        {
-            "name": "The Million Portrait Project",
-            "display_url": "MillionPortraitProject.com",
-            "url": "http://millionportraitproject.com/",
-            "description": [
-                "It's been on hiatus, and doesn't have a lot there yet, but this is my\nlong term photography project. (Fair warning that the site isn't\n          responsive. I didn't know how to do that when I made it)"
-            ],
-            "type": "main"
-        },
+    {
+      "name": "The Million Portrait Project",
+      "display_url": "MillionPortraitProject.com",
+      "url": "http://millionportraitproject.com/",
+      "description": [
+        "It's been on hiatus, and doesn't have a lot there yet, but this is my\nlong term photography project. (Fair warning that the site isn't\n          responsive. I didn't know how to do that when I made it)"
+      ],
+      "type": "main"
+    },
 
-        {
-            "name": "Minecraft Notes",
-            "display_url": "minecraft.alanwsmith.com",
-            "url": "https://minecraft.alanwsmith.com/",
-            "description": [
-                "My basic collection of minecraft notes so I don't have to look them up\nevery time. Another plain HTML file site that I'll be adding some\n    style too"
-            ],
-            "type": "main"
-        },
+    {
+      "name": "Minecraft Notes",
+      "display_url": "minecraft.alanwsmith.com",
+      "url": "https://minecraft.alanwsmith.com/",
+      "description": [
+        "My basic collection of minecraft notes so I don't have to look them up\nevery time. Another plain HTML file site that I'll be adding some\n    style too"
+      ],
+      "type": "main"
+    },
 
-        {
-            "name": "MonoCrack",
-            "display_url": "monocrack.alanwsmith.com",
-            "url": "https://monocrack.alanwsmith.com/",
-            "description": [
-                "A little game where you decrypt texts (Currently Offline)"
-            ],
-            "type": "strike"
-        },
+    {
+      "name": "MonoCrack",
+      "display_url": "monocrack.alanwsmith.com",
+      "url": "https://monocrack.alanwsmith.com/",
+      "description": [
+        "A little game where you decrypt texts (Currently Offline)"
+      ],
+      "type": "strike"
+    },
 
-        {
-            "name": "Next.js Playground",
-            "display_url": "nextjs-playground.alanwsmith.com",
-            "url": "https://nextjs-playground.alanwsmith.com/",
-            "description": [
-                "My place to mess around with NextJs to figure out how it works - TODO: Move to Next.js Cookbook"
-            ],
-            "type": "main"
-        },
+    {
+      "name": "Next.js Playground",
+      "display_url": "nextjs-playground.alanwsmith.com",
+      "url": "https://nextjs-playground.alanwsmith.com/",
+      "description": [
+        "My place to mess around with NextJs to figure out how it works - TODO: Move to Next.js Cookbook"
+      ],
+      "type": "main"
+    },
 
-        {
-            "name": "ngrok Quick QR Code",
-            "display_url": "ngrok-qr.alanwsmith.com",
-            "url": "https://ngrok-qr.alanwsmith.com/",
-            "description": [
-                "A quick place to send ngrok urls to your phone via qr codes"
-            ],
-            "type": "main"
-        },
+    {
+      "name": "ngrok Quick QR Code",
+      "display_url": "ngrok-qr.alanwsmith.com",
+      "url": "https://ngrok-qr.alanwsmith.com/",
+      "description": [
+        "A quick place to send ngrok urls to your phone via qr codes"
+      ],
+      "type": "main"
+    },
 
-        {
-            "name": "photos.alanwsmith.com",
-            "display_url": "photos.alanwsmith.com",
-            "url": "https://photos.alanwsmith.com/",
-            "description": [
-                "Photography used to be my thing. It's what I was known for long before\nI got into code. During the years of getting my ass kicked by mental\nhealth issues, it left me. It was gone so long I'&apos;d gotten used\nto the idea that it was gone forever. Now, it&apos;s back. This is\nwhere I&apos;m posting my stuff"
-            ],
-            "type": "main"
-        },
+    {
+      "name": "photos.alanwsmith.com",
+      "display_url": "photos.alanwsmith.com",
+      "url": "https://photos.alanwsmith.com/",
+      "description": [
+        "Photography used to be my thing. It's what I was known for long before\nI got into code. During the years of getting my ass kicked by mental\nhealth issues, it left me. It was gone so long I'&apos;d gotten used\nto the idea that it was gone forever. Now, it&apos;s back. This is\nwhere I&apos;m posting my stuff"
+      ],
+      "type": "main"
+    },
 
-        {
-            "name": "HTML Only Pixel Art",
-            "display_url": "pixel-art.alanwsmith.com",
-            "url": "https://pixel-art.alanwsmith.com/",
-            "description": [
-                "This is an experiment to make pixel art using only an HTML table. It's\none of six using no JavaScript, CSS, or images. Just the HTML. It was\ninspired by\n<a href=\"https://twitter.com/whitep4nth3r/status/1510568114966171649\"\n>this tweet from whitep4nth3r</a\n>"
-            ],
-            "type": "main"
-        },
+    {
+      "name": "HTML Only Pixel Art",
+      "display_url": "pixel-art.alanwsmith.com",
+      "url": "https://pixel-art.alanwsmith.com/",
+      "description": [
+        "This is an experiment to make pixel art using only an HTML table. It's\none of six using no JavaScript, CSS, or images. Just the HTML. It was\ninspired by\n<a href=\"https://twitter.com/whitep4nth3r/status/1510568114966171649\"\n>this tweet from whitep4nth3r</a\n>"
+      ],
+      "type": "main"
+    },
 
-        {
-            "name": "The Pod Of Alan Podcast",
-            "display_url": "podcast.alanwsmith.com",
-            "url": "https://podcast.alanwsmith.com/",
-            "description": [
-                "Home of The Pod Of Alan where I riff on working in public, making\nstuff, creativity, art, design, education, learning, language, mental\nhealth, movies, and music"
-            ],
-            "type": "main"
-        },
+    {
+      "name": "The Pod Of Alan Podcast",
+      "display_url": "podcast.alanwsmith.com",
+      "url": "https://podcast.alanwsmith.com/",
+      "description": [
+        "Home of The Pod Of Alan where I riff on working in public, making\nstuff, creativity, art, design, education, learning, language, mental\nhealth, movies, and music"
+      ],
+      "type": "main"
+    },
 
-        {
-            "name": "QR Code Clock",
-            "display_url": "qrclock.alanwsmith.com",
-            "url": "https://qrclock.alanwsmith.com/",
-            "description": [
-                "I wanted to see what would happen if you encoded time into a QR code.\nThis is it"
-            ],
-            "type": "main"
-        },
+    {
+      "name": "QR Code Clock",
+      "display_url": "qrclock.alanwsmith.com",
+      "url": "https://qrclock.alanwsmith.com/",
+      "description": [
+        "I wanted to see what would happen if you encoded time into a QR code.\nThis is it"
+      ],
+      "type": "main"
+    },
 
-        {
-            "name": "Reader For Docs",
-            "display_url": "https://reader.alanwsmith.com/",
-            "url": "https://reader.alanwsmith.com/",
-            "description": [
-                "The idea behind this one is to make it easier for me to read\ndocumentation. Or, really, to keep my place when I'm reading through\ndocs. Right now it's just the Org-mode manual split into individual\npages. The key is that it remembers what page I'm on so I just open\nthe site and pick up where I left off."
-            ],
-            "type": "main"
-        },
+    {
+      "name": "Reader For Docs",
+      "display_url": "https://reader.alanwsmith.com/",
+      "url": "https://reader.alanwsmith.com/",
+      "description": [
+        "The idea behind this one is to make it easier for me to read\ndocumentation. Or, really, to keep my place when I'm reading through\ndocs. Right now it's just the Org-mode manual split into individual\npages. The key is that it remembers what page I'm on so I just open\nthe site and pick up where I left off."
+      ],
+      "type": "main"
+    },
 
-        {
-            "name": "Roll. Tide. Roll.",
-            "display_url": "rtr.alanwsmith.com",
-            "url": "https://rtr.alanwsmith.com/",
-            "description": [
-                "Gotta have a Roll Tide site. On the TODO list is to figure out the\ncode that keeps all the words in view while filling the page as much\nas possible"
-            ],
-            "type": "main"
-        },
+    {
+      "name": "Roll. Tide. Roll.",
+      "display_url": "rtr.alanwsmith.com",
+      "url": "https://rtr.alanwsmith.com/",
+      "description": [
+        "Gotta have a Roll Tide site. On the TODO list is to figure out the\ncode that keeps all the words in view while filling the page as much\nas possible"
+      ],
+      "type": "main"
+    },
 
-        {
-            "name": "The Slides Of Alan",
-            "display_url": "slides.alanwsmith.com",
-            "url": "https://slides.alanwsmith.com/",
-            "description": [
-                "Gonna start putting slide decks here for talks and videos"
-            ],
-            "type": "main"
-        },
+    {
+      "name": "The Slides Of Alan",
+      "display_url": "slides.alanwsmith.com",
+      "url": "https://slides.alanwsmith.com/",
+      "description": [
+        "Gonna start putting slide decks here for talks and videos"
+      ],
+      "type": "main"
+    },
 
-        {
-            "name": "Static HTML Site Template",
-            "display_url": "static-template.alanwsmith.com",
-            "url": "https://static-template.alanwsmith.com/",
-            "description": [
-                "My basic template for starting sites without frameworks. Has sample\nfavicons and Open Graph image calls and will eventually have CSS and\nJS samples"
-            ],
-            "type": "main"
-        },
+    {
+      "name": "Static HTML Site Template",
+      "display_url": "static-template.alanwsmith.com",
+      "url": "https://static-template.alanwsmith.com/",
+      "description": [
+        "My basic template for starting sites without frameworks. Has sample\nfavicons and Open Graph image calls and will eventually have CSS and\nJS samples"
+      ],
+      "type": "main"
+    },
 
-        {
-            "name": "SurfTech.tv",
-            "display_url": "surftech.tv",
-            "url": "https://www.surftech.tv/",
-            "description": [
-                "This is a little project I built for myself so that when I've got a\nsome time to watch a tech video during lunch I don't have to worry\nabout finding one. This just plays a random one for me. Still have a\nbunch of features to add to this, but the basic functionality is nice"
-            ],
-            "type": "main"
-        },
+    {
+      "name": "SurfTech.tv",
+      "display_url": "surftech.tv",
+      "url": "https://www.surftech.tv/",
+      "description": [
+        "This is a little project I built for myself so that when I've got a\nsome time to watch a tech video during lunch I don't have to worry\nabout finding one. This just plays a random one for me. Still have a\nbunch of features to add to this, but the basic functionality is nice"
+      ],
+      "type": "main"
+    },
 
-        {
-            "name": "Tailwind Playground",
-            "display_url": "tailwind-playground.alanwsmith.com",
-            "url": "https://tailwind-playground.alanwsmith.com/",
-            "description": [
-                "Messing around with TailwindCSS to figure out how things work"
-            ],
-            "type": "main"
-        },
+    {
+      "name": "Tailwind Playground",
+      "display_url": "tailwind-playground.alanwsmith.com",
+      "url": "https://tailwind-playground.alanwsmith.com/",
+      "description": [
+        "Messing around with TailwindCSS to figure out how things work"
+      ],
+      "type": "main"
+    },
 
-        {
-            "name": "Tutorial Thoughts",
-            "display_url": "tutorial-thoughts.alanwsmith.com",
-            "url": "https://tutorial-thoughts.alanwsmith.com/",
-            "description": [
-                "I find most coding tutorials frustrating. This is my place to\nexperiment with layouts, designs, and concepts that work with the way\nmy brain works"
-            ],
-            "type": "main"
-        },
+    {
+      "name": "Tutorial Thoughts",
+      "display_url": "tutorial-thoughts.alanwsmith.com",
+      "url": "https://tutorial-thoughts.alanwsmith.com/",
+      "description": [
+        "I find most coding tutorials frustrating. This is my place to\nexperiment with layouts, designs, and concepts that work with the way\nmy brain works"
+      ],
+      "type": "main"
+    },
 
-        {
-            "name": "Yabai Automation",
-            "display_url": "yabai.alanwsmith.com",
-            "url": "https://yabai.alanwsmith.com/",
-            "description": [
-                "I use <a href=\"https://github.com/koekeishiya/yabai\">Yabai</a> as a\ntiling window manager on my mac. This page has some scripts I use to\nautomatically move windows around based on which monitors I have\nconnected and what I'm doing"
-            ],
-            "type": "main"
-        }
-    ]
+    {
+      "name": "Typing Rust",
+      "display_url": "typing-rust.alanwsmith.com",
+      "url": "https://typing-rust.alanwsmith.com/",
+      "description": [
+        "The site I'm building to help me learn rust. Also, playing around with an idea I've had for a while to make live tutorial typo detection."
+      ],
+      "type": "main"
+    },
+
+    {
+      "name": "Yabai Automation",
+      "display_url": "yabai.alanwsmith.com",
+      "url": "https://yabai.alanwsmith.com/",
+      "description": [
+        "I use <a href=\"https://github.com/koekeishiya/yabai\">Yabai</a> as a\ntiling window manager on my mac. This page has some scripts I use to\nautomatically move windows around based on which monitors I have\nconnected and what I'm doing"
+      ],
+      "type": "main"
+    }
+  ]
 }
