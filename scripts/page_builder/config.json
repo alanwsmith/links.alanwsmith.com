@@ -1,5 +1,21 @@
 {
   "links": [
+    { 
+      "name": "Django Notes And Tutorials",
+      "display_url": "django.alanwsmith.com",
+      "url": "https://django.alanwsmith.com/",
+      "description": [
+        "I struggled a lot with the offical Django Tutorial. These are notes, boilerplates, and tutorials I put toghter to teach myself (and hopefully make it easier for other folks to learn)."
+      ]
+    },
+    { 
+      "name": "Color Scheme Switcher (Vanilla JavaScript)",
+      "display_url": "color-scheme-switcher.alanwsmith.com",
+      "url": "https://color-scheme-switcher.alanwsmith.com/",
+      "description": [
+        "Some vanilla JavaScript designed to switch color schemes while preventing a Flash Of Unstyled Content (FOUC)."
+      ]
+    },
     {
       "name": "Decovar Random",
       "display_url": "decovar-random.alanwsmith.com",
