@@ -1,0 +1,21 @@
+-- title
+
+links.alanwsmith.com
+
+the source code for links.alanwsmith.com
+
+-- h2
+
+Buliding The Site
+
+-- olist
+
+- Update the <<path|scripts/page_builder/config.json>>
+file with the new site details. 
+
+- Run <<path|scripts/page_builder/build_page.py>>
+
+- Command the site in git and push to GitHub
+
+
+
