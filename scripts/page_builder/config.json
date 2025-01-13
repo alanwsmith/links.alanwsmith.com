@@ -1,5 +1,30 @@
 {
   "links": [
+    {
+      "name": "HTML Template",
+      "display_url": "html-template.alanwsmith.com",
+      "url": "https://html-template.alanwsmith.com",
+      "description": [
+        "My new starter template for making a site without using a third-party framework.",
+        "I didn't realize till posting this that I already had the 'static-template' domain set up. That name didn't stick in my head though and I'm cool with starting fresh regardless."
+      ]
+    },
+    {
+      "name": "YouTube Player Web Component",
+      "display_url": "yt-player.alanwsmith.com",
+      "url": "https://yt-player.alanwsmith.com",
+      "description": [
+        "The web component I use to embed videos on my sites. It provides control buttons for play/pause/stop, mute/unmute, and changing playback speeds. It also sets a data attribute on the body tag that can be used to do things like dim the rest of the page when a video is playing"
+      ]
+    },
+    {
+      "name": "Waveform Display",
+      "display_url": "waveform.alanwsmith.com",
+      "url": "https://waveform.alanwsmith.com",
+      "description": [
+        "A work in progress. Making a waveform display to use when making screen recordings"
+      ]
+    },
     { 
       "name": "867-5309",
       "display_url": "867-5309.alanwsmith.com",
