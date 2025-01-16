@@ -81,7 +81,7 @@
       "display_url": "hachyderm.io/@TheIdOfAlan",
       "url": "https://hachyderm.io/@TheIdOfAlan",
       "description": [
-        "My favorite social network. It took a while to get going on it. I've got a good list of folks I follow now. One of my favorite thigs about it is there's very little 'engagment bait' crap on it."
+        "My favorite social network. It took a while to get going on it. I've got a good list of folks I follow now. One of my favorite thigs about it is there's very little 'engagment bait' crap on it"
       ]
     },
     {
@@ -105,8 +105,8 @@
       "display_url": "svg-button-maker.alanwsmith.com",
       "url": "https://svg-button-maker.alanwsmith.com",
       "description": [
-        "My tool for converting SVGs into accessible HTML/CSS buttons.",
-        "There's way more to making a button out of an SVG than I realized. With this, remembering it all isn't required."
+        "My tool for converting SVGs into accessible HTML/CSS buttons",
+        "There's way more to making a button out of an SVG than I realized. With this, remembering it all isn't required"
       ]
     },
     {
@@ -114,7 +114,7 @@
       "display_url": "html-template.alanwsmith.com",
       "url": "https://html-template.alanwsmith.com",
       "description": [
-        "My latest starter template for making a site without using a third-party framework.",
+        "My latest starter template for making a site without using a third-party framework",
         "(I didn't realize till posting this that I already had the 'static-template' domain set up. That name didn't stick in my head though and I'm cool with starting fresh regardless.)"
       ]
     },
@@ -147,7 +147,7 @@
       "display_url": "django.alanwsmith.com",
       "url": "https://django.alanwsmith.com/",
       "description": [
-        "I struggled a lot with the offical Django Tutorial. These are notes, boilerplates, and tutorials I put toghter to teach myself (and hopefully make it easier for other folks to learn)."
+        "I struggled a lot with the offical Django Tutorial. These are notes, boilerplates, and tutorials I put toghter to teach myself (and hopefully make it easier for other folks to learn)"
       ]
     },
     { 
@@ -155,7 +155,7 @@
       "display_url": "color-scheme-switcher.alanwsmith.com",
       "url": "https://color-scheme-switcher.alanwsmith.com/",
       "description": [
-        "Some vanilla JavaScript designed to switch color schemes while preventing a Flash Of Unstyled Content (FOUC)."
+        "Some vanilla JavaScript designed to switch color schemes while preventing a Flash Of Unstyled Content (FOUC)"
       ]
     },
     {
@@ -163,7 +163,7 @@
       "display_url": "decovar-random.alanwsmith.com",
       "url": "https://decovar-random.alanwsmith.com/",
       "description": [
-        "This is the second experiment (that I like better) of randomly adjusting a variables on a variable font. This one is Decovar. (The first was Roboto Flex which is linked below)."
+        "This is the second experiment (that I like better) of randomly adjusting a variables on a variable font. This one is Decovar. (The first was Roboto Flex which is linked below)"
       ]
     },
     {
@@ -187,7 +187,7 @@
       "display_url": "fonts-and-colors.alanwsmith.com",
       "url": "https://fonts-and-colors.alanwsmith.com/",
       "description": [
-        "I'm not good at color swabs or fonts in isolation. I built this so I don't have to be. Changes show up directly on the page."
+        "I'm not good at color swabs or fonts in isolation. I built this so I don't have to be. Changes show up directly on the page"
       ]
     },
     {
@@ -195,7 +195,7 @@
       "display_url": "art.alanwsmith.com",
       "url": "https://art.alanwsmith.com/",
       "description": [
-        "Historically, I've been a photographer. These days, I'm getting into Processing and Blender. This is where I'm posting those pieces."
+        "Historically, I've been a photographer. These days, I'm getting into Processing and Blender. This is where I'm posting those pieces"
       ]
     },
     {
@@ -219,7 +219,7 @@
       "display_url": "ascii-art.alanwsmith.com",
       "url": "https://ascii-art.alanwsmith.com/",
       "description": [
-        "A few famous pieces of art turned into ASCII. This is one of five experiments in making a site out of just HTML. There&apos;s no JavaScript, CSS, or image calls. Just the HTML. The idea came from <a href=\"https://twitter.com/whitep4nth3r/status/1510568114966171649\">this tweet from whitep4nth3r</a> about HTML only web sites."
+        "A few famous pieces of art turned into ASCII. This is one of five experiments in making a site out of just HTML. There&apos;s no JavaScript, CSS, or image calls. Just the HTML. The idea came from <a href=\"https://twitter.com/whitep4nth3r/status/1510568114966171649\">this tweet from whitep4nth3r</a> about HTML only web sites"
       ]
     },
     {
@@ -227,7 +227,7 @@
       "display_url": "aws-price-list-api-values.alanwsmith.com",
       "url": "https://aws-price-list-api-values.alanwsmith.com/",
       "description": [
-        "I had to dig through the AWS pricing APIs while working on an EC2 pricing comparison for blender rendering. It took a while to figure out how to get at the data. This is the initial data set you can use to filter requests. Hoping it helps save folks some time by not having to bang their heads against this part themselves."
+        "I had to dig through the AWS pricing APIs while working on an EC2 pricing comparison for blender rendering. It took a while to figure out how to get at the data. This is the initial data set you can use to filter requests. Hoping it helps save folks some time by not having to bang their heads against this part themselves"
       ]
     },
 
@@ -245,7 +245,7 @@
       "display_url": "bright-screen-flash-alert.alanwsmith.com",
       "url": "https://bright-screen-flash-alert.alanwsmith.com/",
       "description": [
-        "Designed primarily for streams who work in dark mode. This plays a little yelling sound for chat when they hit a page without it."
+        "Designed primarily for streams who work in dark mode. This plays a little yelling sound for chat when they hit a page without it"
       ]
     },
 
@@ -254,7 +254,7 @@
       "display_url": "cloudinary-image-maker.alanwsmith.com",
       "url": "https://cloudinary-image-maker.alanwsmith.com/",
       "description": [
-        "I got tired of trying to assemble Cloudinary urls. Took less time to make this than I spent trying to figure out how to apply text to an image by hand."
+        "I got tired of trying to assemble Cloudinary urls. Took less time to make this than I spent trying to figure out how to apply text to an image by hand"
       ]
     },
 
@@ -308,7 +308,7 @@
       "display_url": "horsevatars.alanwsmith.com",
       "url": "https://horsevatars.alanwsmith.com/",
       "description": [
-        "An experiment in making multi-color avatars for <a href=\"https://frontend.horse/\">Frontend Horse</a> "
+        "An experiment in making multi-color avatars for <a href=\"https://frontend.horse/\">Frontend Horse</a> using Cloudinary to automatically generate the images"
       ]
     },
 
@@ -510,13 +510,13 @@
       "display_url": "https://reader.alanwsmith.com/",
       "url": "https://reader.alanwsmith.com/",
       "description": [
-        "The idea behind this one is to make it easier for me to read\ndocumentation. Or, really, to keep my place when I'm reading through\ndocs. Right now it's just the Org-mode manual split into individual\npages. The key is that it remembers what page I'm on so I just open\nthe site and pick up where I left off."
+        "The idea behind this one is to make it easier for me to read\ndocumentation. Or, really, to keep my place when I'm reading through\ndocs. Right now it's just the Org-mode manual split into individual\npages. The key is that it remembers what page I'm on so I just open\nthe site and pick up where I left off"
       ],
       "type": "main"
     },
 
     {
-      "name": "Roll. Tide. Roll.",
+      "name": "Roll. Tide. Roll",
       "display_url": "rtr.alanwsmith.com",
       "url": "https://rtr.alanwsmith.com/",
       "description": [
@@ -540,7 +540,7 @@
       "display_url": "static-template.alanwsmith.com",
       "url": "https://static-template.alanwsmith.com/",
       "description": [
-        "This was an earlier template I used for starting new static sites on a sub-domain. I don't use it any more. It's just here for reference."
+        "This was an earlier template I used for starting new static sites on a sub-domain. I don't use it any more. It's just here for reference. See the &quot;HTML Template&quot; above for the one I'm using now"
       ],
       "type": "main"
     },
@@ -580,7 +580,7 @@
       "display_url": "typing-rust.alanwsmith.com",
       "url": "https://typing-rust.alanwsmith.com/",
       "description": [
-        "This is my original Rust Notes site where I was going to have a tool to help you type code examples in correctly. I'm punting on it in favor of <a href=\"https://rust-notes.alanwsmith.com/\">Rust Notes</a>."
+        "This is my original Rust Notes site where I was going to have a tool to help you type code examples in correctly. I'm punting on it in favor of <a href=\"https://rust-notes.alanwsmith.com/\">Rust Notes</a>"
       ],
       "type": "main"
     },
@@ -590,7 +590,7 @@
       "display_url": "rust-notes.alanwsmith.com",
       "url": "https://rust-notes.alanwsmith.com/",
       "description": [
-        "My collection of notes for learning Rust. Publishing the entire set as a stand alone site to help me learn better through the process of writing."
+        "My collection of notes for learning Rust. Publishing the entire set as a stand alone site to help me learn better through the process of writing"
       ],
       "type": "main"
     },
