@@ -1,18 +1,111 @@
 {
+  "todo": "ascii shop", 
   "links": [
+    {
+      "name": "Only Fans",
+      "display_url": "",
+      "url": "https://socials.alanwsmith.com/only-fans/",
+      "description": [
+        "You sure you want to click on this one?"
+      ]
+    },
+    {
+      "name": "YouTube",
+      "display_url": "youtube.com/@TheIdOfAlan",
+      "url": "https://www.youtube.com/@TheIdOfAlan",
+      "description": [
+        "Lots of randomness here. From Scratch and Minecraft videos to timers and test NASA clips"
+      ]
+    },
+    {
+      "name": "Twitch",
+      "display_url": "twitch.tv/theidofalan",
+      "url": "https://www.twitch.tv/theidofalan",
+      "description": [
+        "Every want to see someone code live? Here's your chance. (I very much go through phases with how much I stream. Going from several times a week to skipping entire months is not uncommon)"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "display_url": "github.com/alanwsmith",
+      "url": "https://github.com/alanwsmith",
+      "description": [
+        "Not everything I do is on GitHub, but a lot of it is. This is your place to go if you want to see what I've been up to with the codes"
+      ]
+    },
+    {
+      "name": "Facebook",
+      "display_url": "no longer active",
+      "url": "",
+      "description": [
+        "I haven't been on Facebook in years. It's a prime example of enshittification"
+      ],
+      "type": "strike"
+    },
+    {
+      "name": "Twitter",
+      "display_url": "no longer active",
+      "url": "",
+      "description": [
+        "I haven't been on twitter/x in a long time. It's just gross now"
+      ],
+      "type": "strike"
+    },
+    {
+      "name": "Bluesky",
+      "display_url": "bsky.app/profile/alanwsmith.com",
+      "url": "https://bsky.app/profile/alanwsmith.com",
+      "description": [
+        "Bluesky feels like a cross between &quot;original good twitter&quot; and &quot;new, crappy, engagement bait twitter&quot;. I'm glad it exists even though I generally prefer mastodon"
+      ]
+    },
+
+    {
+      "name": "Mastodon",
+      "display_url": "hachyderm.io/@TheIdOfAlan",
+      "url": "https://hachyderm.io/@TheIdOfAlan",
+      "description": [
+        "My favorite social network. It took a while to get going on it. I've got a good list of folks I follow now. One of my favorite thigs about it is there's very little 'engagment bait' crap on it."
+      ]
+    },
+    {
+      "name": "Web Component Techniques",
+      "display_url": "web-component-techniques.alanwsmith.com",
+      "url": "https://web-component-techniques.alanwsmith.com/",
+      "description": [
+        "The place where I'm keeping my notes about how to work with web components"
+      ]
+    },
+    {
+      "name": "Social Networks",
+      "display_url": "socials.alanwsmith.com",
+      "url": "https://socials.alanwsmith.com",
+      "description": [
+        "Links to the current list of places you can find me on the internet"
+      ]
+    },
+    {
+      "name": "SVG Button Maker",
+      "display_url": "svg-button-maker.alanwsmith.com",
+      "url": "https://svg-button-maker.alanwsmith.com",
+      "description": [
+        "My tool for converting SVGs into accessible HTML/CSS buttons.",
+        "There's way more to making a button out of an SVG than I realized. With this, remembering it all isn't required."
+      ]
+    },
     {
       "name": "HTML Template",
       "display_url": "html-template.alanwsmith.com",
       "url": "https://html-template.alanwsmith.com",
       "description": [
-        "My new starter template for making a site without using a third-party framework.",
-        "I didn't realize till posting this that I already had the 'static-template' domain set up. That name didn't stick in my head though and I'm cool with starting fresh regardless."
+        "My latest starter template for making a site without using a third-party framework.",
+        "(I didn't realize till posting this that I already had the 'static-template' domain set up. That name didn't stick in my head though and I'm cool with starting fresh regardless.)"
       ]
     },
     {
       "name": "YouTube Player Web Component",
-      "display_url": "yt-player.alanwsmith.com",
-      "url": "https://yt-player.alanwsmith.com",
+      "display_url": "youtube-player.alanwsmith.com",
+      "url": "https://youtube-player.alanwsmith.com",
       "description": [
         "The web component I use to embed videos on my sites. It provides control buttons for play/pause/stop, mute/unmute, and changing playback speeds. It also sets a data attribute on the body tag that can be used to do things like dim the rest of the page when a video is playing"
       ]
@@ -249,7 +342,7 @@
     },
 
     {
-      "name": "The Shiny Blog Of Jack Torrance",
+      "name": "Jack Torrance's Shiny Blog",
       "display_url": "jacktorrance.blog",
       "url": "https://jacktorrance.blog/",
       "description": [
@@ -311,9 +404,9 @@
       "display_url": "MillionPortraitProject.com",
       "url": "http://millionportraitproject.com/",
       "description": [
-        "It's been on hiatus, and doesn't have a lot there yet, but this is my\nlong term photography project. (Fair warning that the site isn't\n          responsive. I didn't know how to do that when I made it)"
+        "I have a long term plan of doing a portriat project with the goal of getting my images hung in the National Portrait Gallery. This was the origal site for the project. I let it expire with plans to move it to a sub-domain but haven't set that up yet. So, it's on hiatus"
       ],
-      "type": "main"
+      "type": "strike"
     },
 
     {
@@ -421,7 +514,7 @@
       "display_url": "slides.alanwsmith.com",
       "url": "https://slides.alanwsmith.com/",
       "description": [
-        "Gonna start putting slide decks here for talks and videos"
+        "This one is aspirational. The idea is to put slide decks here for talks and videos. Though, there's a good chance each slide deck will end up on it's own sub-domain so I've got the option of using different tech for each one"
       ],
       "type": "main"
     },
@@ -431,7 +524,7 @@
       "display_url": "static-template.alanwsmith.com",
       "url": "https://static-template.alanwsmith.com/",
       "description": [
-        "My basic template for starting sites without frameworks. Has sample\nfavicons and Open Graph image calls and will eventually have CSS and\nJS samples"
+        "This was an earlier template I used for starting new static sites on a sub-domain. I don't use it any more. It's just here for reference."
       ],
       "type": "main"
     },
@@ -441,7 +534,7 @@
       "display_url": "surftech.tv",
       "url": "https://www.surftech.tv/",
       "description": [
-        "This is a little project I built for myself so that when I've got a\nsome time to watch a tech video during lunch I don't have to worry\nabout finding one. This just plays a random one for me. Still have a\nbunch of features to add to this, but the basic functionality is nice"
+        "A project I built for when I've got some time to watch a tech video but don't want to have to pick one out. The page picks a random one from a list and loads it automatcially. I let the domain expire. I'll move it to a sub-domain at some point"
       ],
       "type": "strike"
     },

@@ -42,8 +42,8 @@ with open('config.json') as _json:
     config = json.load(_json)
     links = config['links']
     print(f"Total links: {len(links)}")
-    # links.sort(key=lambda x: x['name'].lower().replace('the ', ''))
-    links.sort(key=lambda x: x['name'].lower())
+    links.sort(key=lambda x: x['name'].lower().replace('the ', ''))
+    # links.sort(key=lambda x: x['name'].lower())
     html_links = []
     for link in links:
         if 'type' not in link:

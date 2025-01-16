@@ -1,21 +1,16 @@
--- title
-
-links.alanwsmith.com
+# links.alanwsmith.com
 
 the source code for links.alanwsmith.com
 
--- h2
+## Updating The Site
 
-Buliding The Site
+- Start `scripts/page_builder/start_watcher`
 
--- olist
+- Edit `scripts/page_builder/teamplte.html`
+to make changes to the main wrapper and
+intro text. 
 
-- Update the <<path|scripts/page_builder/config.json>>
-file with the new site details. 
-
-- Run <<path|scripts/page_builder/build_page.py>>
-
-- Command the site in git and push to GitHub
-
+- Update `scripts/page_builder/config.json`
+to add/edit site links
 
 
