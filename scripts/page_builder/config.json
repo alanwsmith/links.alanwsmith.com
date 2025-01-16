@@ -2,6 +2,22 @@
   "todo": "ascii shop", 
   "links": [
     {
+      "name": "Low Tide At Sunrise Finder",
+      "display_url": "low-tide-at-sunrise.alanwsmith.com/",
+      "url": "https://low-tide-at-sunrise.alanwsmith.com/",
+      "description": [
+        "I got nerd-sniped with this one. A bird watcher posted how they wanted an app that would show them when sunrise and low tide where within certain times of each other. I was in a headspace where I needed something to mess around with. This was the perfect thing. Got to play around with NOAA.gov data, learn the formula for calculating sunrise (which is way more complex than I anticipated), fight through timezone math, and learn to embed Leaflet maps"
+      ]
+    },
+    {
+      "name": "GitHub Stars (Web Component)",
+      "display_url": "github-stars.alanwsmith.com",
+      "url": "https://github-stars.alanwsmith.com/",
+      "description": [
+        "A little web component for displaying the GitHub stars for a repo. It wasn't really necessary to build as there's an official GitHub one. It was a good learning project though. Plus, you can change the colors on this one. A feature the official one doesn't have"
+      ]
+    },
+    {
       "name": "Only Fans",
       "display_url": "",
       "url": "https://socials.alanwsmith.com/only-fans/",
@@ -103,7 +119,7 @@
       ]
     },
     {
-      "name": "YouTube Player Web Component",
+      "name": "YouTube Player (Web Component)",
       "display_url": "youtube-player.alanwsmith.com",
       "url": "https://youtube-player.alanwsmith.com",
       "description": [
@@ -123,7 +139,7 @@
       "display_url": "867-5309.alanwsmith.com",
       "url": "https://867-5309.alanwsmith.com",
       "description": [
-        "Quick link for the classic number. Can't belive someone owns 867-5309.com and isn't doing this with it. The main point of the page is to experiment with a technique for having a blurred background based off the video that's playing."
+        "Quick link for the classic number. Can't belive someone owns 867-5309.com and isn't doing this with it. The main point of the page is to experiment with a technique for having a blurred background based off the video that's playing"
       ]
     },
     { 
@@ -187,7 +203,7 @@
       "display_url": "www.alanwsmith.com",
       "url": "https://www.alanwsmith.com/",
       "description": [
-        "The place where it all began. This is my main site/blog. It&apos;s personal so I post about whatever happens to have my interest. Music, movies, code, having bipolar disorder, whatever. It's also not organized right now. It's just an alphabetical listing of links. Improving that is definitely on the to-do list."
+        "The place where it all began. This is my main site/blog. It&apos;s personal so I post about whatever happens to have my interest. Music, movies, code, having bipolar disorder, whatever. It's also not organized right now. It's just an alphabetical listing of links. Improving that is definitely on the to-do list"
       ]
     },
     {
@@ -195,7 +211,7 @@
       "display_url": "AreYouCurrentlyAlive.alanwsmith.com",
       "url": "https://areyoucurrentlyalive.alanwsmith.com/",
       "description": [
-        "Build this one in the spirit of <a href=\"http://www.hasthelargehadroncolliderdestroyedtheworldyet.com/\">Has The Large Hadron Collider Destroyed The World Yet.com</a> for Netlify's 2021 <a href=\"https://dusty.domains/\">Dusty Domains</a>. The little page was worth $500 to charity."
+        "Build this one in the spirit of <a href=\"http://www.hasthelargehadroncolliderdestroyedtheworldyet.com/\">Has The Large Hadron Collider Destroyed The World Yet.com</a> for Netlify's 2021 <a href=\"https://dusty.domains/\">Dusty Domains</a>. The little page was worth $500 to charity"
       ]
     },
     {
@@ -384,7 +400,7 @@
       "display_url": "manic-scroll.alanwsmith.com",
       "url": "http://manic-scroll.alanwsmith.com/",
       "description": [
-        "A sample of the notes that I took during a manic bipolar episode.\nThere&apos;s nothing particularly profound about them. Just thought it\nmight be interesting to post them"
+        "A sample of the notes that I took during a manic bipolar episode.\nThere&apos;s nothing particularly profound about them. Just thought it\nmight be interesting to post them. If you ever wanted to see what it looks like during someones brain freaking out, this is it"
       ],
       "type": "main"
     },
