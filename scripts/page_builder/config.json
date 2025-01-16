@@ -199,7 +199,7 @@
       ]
     },
     {
-      "name": "ASCII Art",
+      "name": "HTML Only: ASCII Art",
       "display_url": "ascii-art.alanwsmith.com",
       "url": "https://ascii-art.alanwsmith.com/",
       "description": [
@@ -297,7 +297,7 @@
     },
 
     {
-      "name": "HTML Only Animation",
+      "name": "HTML Only: Animation",
       "display_url": "html-animation.alanwsmith.com",
       "url": "https://html-animation.alanwsmith.com/",
       "description": [
@@ -306,7 +306,7 @@
     },
 
     {
-      "name": "HTML Only Display Board",
+      "name": "HTML Only: Display Board",
       "display_url": "html-display-board.alanwsmith.com",
       "url": "https://html-display-board.alanwsmith.com/",
       "description": [
@@ -315,7 +315,7 @@
     },
 
     {
-      "name": "HTML Only Maze",
+      "name": "HTML Only: Maze",
       "display_url": "html-maze.alanwsmith.com",
       "url": "https://html-maze.alanwsmith.com/",
       "description": [
@@ -324,7 +324,7 @@
     },
 
     {
-      "name": "HTML Only Random Pattern",
+      "name": "HTML Only: Random Pattern",
       "display_url": "html-random-pattern.alanwsmith.com",
       "url": "https://html-random-pattern.alanwsmith.com/",
       "description": [
@@ -460,7 +460,7 @@
     },
 
     {
-      "name": "HTML Only Pixel Art",
+      "name": "HTML Only: Pixel Art",
       "display_url": "pixel-art.alanwsmith.com",
       "url": "https://pixel-art.alanwsmith.com/",
       "description": [
