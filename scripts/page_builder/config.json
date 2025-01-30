@@ -1,6 +1,18 @@
 {
-  "todo": "ascii shop", 
+  "todo": [
+    "ascii shop, change areyoucurrnetlyalive to are-you-currently-alive",
+    "update this config to use json5 so it's easier to work with",
+    "update qrclock to qr-clock"
+  ],
   "links": [
+    {
+      "name": "Multi-Player",
+      "display_url": "multi-player.alanwsmith.com/",
+      "url": "https://multi-player.alanwsmith.com/",
+      "description": [
+        "A recreation of a multi-player video page I saw years ago"
+      ]
+    },
     {
       "name": "Low Tide At Sunrise Finder",
       "display_url": "low-tide-at-sunrise.alanwsmith.com/",
