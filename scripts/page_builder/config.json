@@ -6,8 +6,8 @@
   ],
   "links": [
     {
-      "name": "All Work And No Play Notecards",
-      "display_url": "working.alanwsmith.com/",
+      "name": "All Work And No Play",
+      "display_url": "working.alanwsmith.com",
       "url": "https://working.alanwsmith.com/",
       "description": [
         "Another tribute to Jack Torrance. This time with notecards"
@@ -15,7 +15,7 @@
     },
     {
       "name": "Multi-Player",
-      "display_url": "multi-player.alanwsmith.com/",
+      "display_url": "multi-player.alanwsmith.com",
       "url": "https://multi-player.alanwsmith.com/",
       "description": [
         "A recreation of a multi-player video page I saw years ago"
@@ -23,7 +23,7 @@
     },
     {
       "name": "Low Tide At Sunrise Finder",
-      "display_url": "low-tide-at-sunrise.alanwsmith.com/",
+      "display_url": "low-tide-at-sunrise.alanwsmith.com",
       "url": "https://low-tide-at-sunrise.alanwsmith.com/",
       "description": [
         "I got nerd-sniped with this one. A bird watcher posted how they wanted an app that would show them when sunrise and low tide where within certain times of each other. I was in a headspace where I needed something to mess around with. This was the perfect thing. Got to play around with NOAA.gov data, learn the formula for calculating sunrise (which is way more complex than I anticipated), fight through timezone math, and learn to embed Leaflet maps"
@@ -35,14 +35,6 @@
       "url": "https://github-stars.alanwsmith.com/",
       "description": [
         "A little web component for displaying the GitHub stars for a repo. It wasn't really necessary to build as there's an official GitHub one. It was a good learning project though. Plus, you can change the colors on this one. A feature the official one doesn't have"
-      ]
-    },
-    {
-      "name": "Only Fans",
-      "display_url": "",
-      "url": "https://socials.alanwsmith.com/only-fans/",
-      "description": [
-        "You sure you want to click on this one?"
       ]
     },
     {
