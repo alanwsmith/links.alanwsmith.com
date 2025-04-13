@@ -6,11 +6,11 @@
   ],
   "links": [
     {
-      "name": "My Website Manifesto",
-      "display_url": "alanwsmith.com",
-      "url": "https://www.alanwsmith.com/en/2v/xa/cn/vj/",
+      "name": "AI Honeypot Builder",
+      "display_url": "ai-honeypot.alanwsmith.com",
+      "url": "https://ai-honeypot.alanwsmith.com",
       "description": [
-        "Figure it's time to put down my thoughts on how to make the web a better place."
+        "A tool to build honeypot sites that poison unscrupulous AI scrapper bots"
       ]
     },
     {
