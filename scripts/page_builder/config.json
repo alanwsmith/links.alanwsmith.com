@@ -6,6 +6,14 @@
   ],
   "links": [
     {
+      "name": "Color Picker",
+      "display_url": "color-picker.alanwsmith.com",
+      "url": "https://color-picker.alanwsmith.com",
+      "description": [
+        "A color picker that generates OKLCH color pallets. It's a little confusing and optinionated right now, but it can get you started."
+      ]
+    },
+    {
       "name": "AI Honeypot Builder",
       "display_url": "ai-honeypot.alanwsmith.com",
       "url": "https://ai-honeypot.alanwsmith.com",
