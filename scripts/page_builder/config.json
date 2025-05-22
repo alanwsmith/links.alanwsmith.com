@@ -6,6 +6,14 @@
   ],
   "links": [
     {
+      "name": "Color Palettes",
+      "display_url": "color-palettes.alanwsmith.com",
+      "url": "https://color-palettes.alanwsmith.com",
+      "description": [
+        "An early attempt at making a color picker. It has a ton of palettes and auto generate styles based on them."
+      ]
+    },
+    {
       "name": "Lists",
       "display_url": "lists.alanwsmith.com",
       "url": "https://lists.alanwsmith.com",
