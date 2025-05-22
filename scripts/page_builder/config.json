@@ -6,6 +6,14 @@
   ],
   "links": [
     {
+      "name": "Lists",
+      "display_url": "lists.alanwsmith.com",
+      "url": "https://lists.alanwsmith.com",
+      "description": [
+        "A place to collect lists. Mostly to use in other projects or examples or whatever."
+      ]
+    },
+    {
       "name": "Color Picker",
       "display_url": "color-picker.alanwsmith.com",
       "url": "https://color-picker.alanwsmith.com",
