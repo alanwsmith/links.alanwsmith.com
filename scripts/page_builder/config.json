@@ -6,6 +6,14 @@
   ],
   "links": [
     {
+      "name": "Text Zoomer",
+      "display_url": "zoom.alanwsmith.com",
+      "url": "https://zoom.alanwsmith.com",
+      "description": [
+        "Mainly a test of bitty-js. Gets you big text if you need it though."
+      ]
+    },
+    {
       "name": "Color Palettes",
       "display_url": "color-palettes.alanwsmith.com",
       "url": "https://color-palettes.alanwsmith.com",
@@ -178,7 +186,7 @@
         "A work in progress. Making a waveform display to use when making screen recordings"
       ]
     },
-    { 
+    {
       "name": "867-5309",
       "display_url": "867-5309.alanwsmith.com",
       "url": "https://867-5309.alanwsmith.com",
@@ -186,7 +194,7 @@
         "Quick link for the classic number. Can't belive someone owns 867-5309.com and isn't doing this with it. The main point of the page is to experiment with a technique for having a blurred background based off the video that's playing"
       ]
     },
-    { 
+    {
       "name": "Django Notes And Tutorials",
       "display_url": "django.alanwsmith.com",
       "url": "https://django.alanwsmith.com/",
@@ -194,7 +202,7 @@
         "I struggled a lot with the offical Django Tutorial. These are notes, boilerplates, and tutorials I put toghter to teach myself (and hopefully make it easier for other folks to learn)"
       ]
     },
-    { 
+    {
       "name": "Color Scheme Switcher (Vanilla JavaScript)",
       "display_url": "color-scheme-switcher.alanwsmith.com",
       "url": "https://color-scheme-switcher.alanwsmith.com/",
