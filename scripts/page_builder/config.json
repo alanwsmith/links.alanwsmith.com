@@ -6,6 +6,14 @@
   ],
   "links": [
     {
+      "name": "How To Grow Your Digital Garden With Subdomains",
+      "display_url": "subdomains.alanwsmith.com",
+      "url": "https://subdomains.alanwsmith.com",
+      "description": [
+        "A piece about using subdomains as a clean slate for playing and experimenting. Originally on my main site, it felt like it should have it's own subdomain."
+      ]
+    },
+    {
       "name": "Text Zoomer",
       "display_url": "zoom.alanwsmith.com",
       "url": "https://zoom.alanwsmith.com",
