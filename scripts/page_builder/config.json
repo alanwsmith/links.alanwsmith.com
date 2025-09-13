@@ -6,6 +6,14 @@
   ],
   "links": [
     {
+      "name": "QR Code Typewriter",
+      "display_url": "qr-typewriter.alanwsmith.com",
+      "url": "https://qr-typewriter.alanwsmith.com",
+      "description": [
+        "A silly little experiment that has no practical purpose other than I thought it might look cool. You be the judge."
+      ]
+    },
+    {
       "name": "bitty-js",
       "display_url": "bitty-js.alanwsmith.com",
       "url": "https://bitty-js.alanwsmith.com",
