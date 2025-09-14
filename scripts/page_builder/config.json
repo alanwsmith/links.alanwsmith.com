@@ -6,6 +6,14 @@
   ],
   "links": [
     {
+      "name": "Blank Page",
+      "display_url": "blank.alanwsmith.com",
+      "url": "https://blank.alanwsmith.com",
+      "description": [
+        "A homage to the printed page."
+      ]
+    },
+    {
       "name": "QR Code Typewriter",
       "display_url": "qr-typewriter.alanwsmith.com",
       "url": "https://qr-typewriter.alanwsmith.com",
@@ -474,7 +482,7 @@
       "display_url": "letters.alanwsmith.com",
       "url": "https://letters.alanwsmith.com/",
       "description": [
-        "You're number one source for links to my letters of the alphabet\nsites. I made them as part of my &quot;<a\n            href=\"https://www.alanwsmith.com/posts/28dakarfdsyq--how-to-grow-your-digital-garden-with-subdomains\"\n            >How To Grow Your Digital Garden With Sub-Domains</a\n          >&quot; post. (Here's direct letter access if you're looking for that:\n\n          <a href=\"https://a.alanwsmith.com/\">a</a>,\n          <a href=\"https://b.alanwsmith.com/\">b</a>,\n          <a href=\"https://c.alanwsmith.com/\">c</a>,\n          <a href=\"https://d.alanwsmith.com/\">d</a>,\n          <a href=\"https://e.alanwsmith.com/\">e</a>,\n          <a href=\"https://f.alanwsmith.com/\">f</a>,\n          <a href=\"https://g.alanwsmith.com/\">g</a>,\n          <a href=\"https://h.alanwsmith.com/\">h</a>,\n          <a href=\"https://i.alanwsmith.com/\">i</a>,\n          <a href=\"https://j.alanwsmith.com/\">j</a>,\n          <a href=\"https://k.alanwsmith.com/\">k</a>,\n          <a href=\"https://l.alanwsmith.com/\">l</a>,\n          <a href=\"https://m.alanwsmith.com/\">m</a>,\n          <a href=\"https://n.alanwsmith.com/\">n</a>,\n          <a href=\"https://o.alanwsmith.com/\">o</a>,\n          <a href=\"https://p.alanwsmith.com/\">p</a>,\n          <a href=\"https://q.alanwsmith.com/\">q</a>,\n          <a href=\"https://r.alanwsmith.com/\">r</a>,\n          <a href=\"https://s.alanwsmith.com/\">s</a>,\n          <a href=\"https://t.alanwsmith.com/\">t</a>,\n          <a href=\"https://u.alanwsmith.com/\">u</a>,\n          <a href=\"https://v.alanwsmith.com/\">v</a>,\n          <a href=\"https://w.alanwsmith.com/\">w</a>,\n          <a href=\"https://x.alanwsmith.com/\">x</a>,\n          <a href=\"https://y.alanwsmith.com/\">y</a>,\n          <a href=\"https://z.alanwsmith.com/\">z</a>. )"
+        "You're number one source for links to my letters of the alphabet\nsites. I made them as part of my &quot;<a href=\"https://subdomains.alanwsmith.com/\">How To Grow Your Digital Garden With Sub-Domains</a>&quot; post. (Here's direct letter access if you're looking for that: <a href=\"https://a.alanwsmith.com/\">a</a>,\n          <a href=\"https://b.alanwsmith.com/\">b</a>,\n          <a href=\"https://c.alanwsmith.com/\">c</a>,\n          <a href=\"https://d.alanwsmith.com/\">d</a>,\n          <a href=\"https://e.alanwsmith.com/\">e</a>,\n          <a href=\"https://f.alanwsmith.com/\">f</a>,\n          <a href=\"https://g.alanwsmith.com/\">g</a>,\n          <a href=\"https://h.alanwsmith.com/\">h</a>,\n          <a href=\"https://i.alanwsmith.com/\">i</a>,\n          <a href=\"https://j.alanwsmith.com/\">j</a>,\n          <a href=\"https://k.alanwsmith.com/\">k</a>,\n          <a href=\"https://l.alanwsmith.com/\">l</a>,\n          <a href=\"https://m.alanwsmith.com/\">m</a>,\n          <a href=\"https://n.alanwsmith.com/\">n</a>,\n          <a href=\"https://o.alanwsmith.com/\">o</a>,\n          <a href=\"https://p.alanwsmith.com/\">p</a>,\n          <a href=\"https://q.alanwsmith.com/\">q</a>,\n          <a href=\"https://r.alanwsmith.com/\">r</a>,\n          <a href=\"https://s.alanwsmith.com/\">s</a>,\n          <a href=\"https://t.alanwsmith.com/\">t</a>,\n          <a href=\"https://u.alanwsmith.com/\">u</a>,\n          <a href=\"https://v.alanwsmith.com/\">v</a>,\n          <a href=\"https://w.alanwsmith.com/\">w</a>,\n          <a href=\"https://x.alanwsmith.com/\">x</a>,\n          <a href=\"https://y.alanwsmith.com/\">y</a>,\n          <a href=\"https://z.alanwsmith.com/\">z</a>. )"
       ],
       "type": "main"
     },
