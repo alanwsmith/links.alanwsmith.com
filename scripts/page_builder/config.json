@@ -6,6 +6,14 @@
   ],
   "links": [
     {
+      "name": "CLI Commands",
+      "display_url": "commands.alanwsmith.com",
+      "url": "https://commands.alanwsmith.com",
+      "description": [
+        "My collection of scripts and aliases for working on the command line. The most useful of which are probably the git aliases for: status, commit, and push"
+      ]
+    },
+    {
       "name": "Blank Page",
       "display_url": "blank.alanwsmith.com",
       "url": "https://blank.alanwsmith.com",
