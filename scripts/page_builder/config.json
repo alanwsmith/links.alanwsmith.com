@@ -6,6 +6,14 @@
   ],
   "links": [
     {
+      "name": "Grid Web Component",
+      "display_url": "grid.alanwsmith.com",
+      "url": "https://grid.alanwsmith.com",
+      "description": [
+        "A web component to make grids that fill up a content area with cells that have minimum and maximum widths and a given aspect ratio"
+      ]
+    },
+    {
       "name": "CLI Commands",
       "display_url": "commands.alanwsmith.com",
       "url": "https://commands.alanwsmith.com",
