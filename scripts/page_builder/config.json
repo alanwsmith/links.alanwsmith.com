@@ -38,11 +38,11 @@
       ]
     },
     {
-      "name": "bitty-js",
-      "display_url": "bitty-js.alanwsmith.com",
-      "url": "https://bitty-js.alanwsmith.com",
+      "name": "bitty web component",
+      "display_url": "bitty.alanwsmith.com",
+      "url": "https://bitty.alanwsmith.com",
       "description": [
-        "A tiny web component. It makes web pages reactive. Designed for progressive enhancement."
+        "A tiny web component. It uses signals to make web pages reactive. Designed for progressive enhancement."
       ]
     },
     {
