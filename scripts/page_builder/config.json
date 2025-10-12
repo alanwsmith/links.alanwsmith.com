@@ -6,6 +6,14 @@
   ],
   "links": [
     {
+      "name": "Alice's CSS Adventures in Wonderland",
+      "display_url": "alice.alanwsmith.com",
+      "url": "https://alice.alanwsmith.com",
+      "description": [
+        "An experiment in CSS where every letter of the alphabet gets its own style. Their colors and shapes change as you're reading the text."
+      ]
+    },
+    {
       "name": "HTML Sizes",
       "display_url": "html-sizes.alanwsmith.com",
       "url": "https://html-sizes.alanwsmith.com",
