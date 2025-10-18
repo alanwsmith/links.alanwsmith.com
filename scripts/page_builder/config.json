@@ -6,6 +6,14 @@
   ],
   "links": [
     {
+      "name": "Neovim Menu",
+      "display_url": "neovim-menu.alanwsmith.com",
+      "url": "https://neovim-menu.alanwsmith.com",
+      "description": [
+        "A custom plugin I'm building to give me easy access to various task runners and external processes."
+      ]
+    },
+    {
       "name": "Alice's CSS Adventures in Wonderland",
       "display_url": "alice.alanwsmith.com",
       "url": "https://alice.alanwsmith.com",
