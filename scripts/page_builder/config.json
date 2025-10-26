@@ -6,6 +6,14 @@
   ],
   "links": [
     {
+      "name": "SVG Scrubber",
+      "display_url": "svg-scrubber.alanwsmith.com",
+      "url": "https://svg-scrubber.alanwsmith.com",
+      "description": [
+        "A little app I wrote to clean up SVGs from the Concepts iPad app and give them light/dark mode. After building it, I discovered I didn't like the look and the app does all the formatting I need. Oh, well. Still fun to build."
+      ]
+    },
+    {
       "name": "Neovim Menu",
       "display_url": "neovim-menu.alanwsmith.com",
       "url": "https://neovim-menu.alanwsmith.com",
