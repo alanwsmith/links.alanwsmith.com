@@ -6,6 +6,14 @@
   ],
   "links": [
     {
+      "name": "Popup Launcher",
+      "display_url": "popup.alanwsmith.com",
+      "url": "https://popup.alanwsmith.com",
+      "description": [
+        "Drop in a URL and it'll launch it into a new popup window. Useful for times when you need a browser page to be smaller than browsers go by default."
+      ]
+    },
+    {
       "name": "SVG Scrubber",
       "display_url": "svg-scrubber.alanwsmith.com",
       "url": "https://svg-scrubber.alanwsmith.com",
