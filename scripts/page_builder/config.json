@@ -4,6 +4,7 @@
     "update this config to use json5 so it's easier to work with",
     "update qrclock to qr-clock"
   ],
+
   "links": [
     {
       "name": "Popup Launcher",
@@ -11,6 +12,14 @@
       "url": "https://popup.alanwsmith.com",
       "description": [
         "Drop in a URL and it'll launch it into a new popup window. Useful for times when you need a browser page to be smaller than browsers go by default."
+      ]
+    },
+    {
+      "name": "Flexbox Notes",
+      "display_url": "flex.alanwsmith.com",
+      "url": "https://flex.alanwsmith.com",
+      "description": [
+        "My notes on how flexbox works in CSS"
       ]
     },
     {
