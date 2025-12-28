@@ -7,6 +7,14 @@
 
   "links": [
     {
+      "name": "Ad Blocking /etc/hosts file",
+      "display_url": "adblock.alanwsmith.com",
+      "url": "https://adblock.alanwsmith.com",
+      "description": [
+        "A combination of 60+ other ad blocking files"
+      ]
+    },
+    {
       "name": "Popup Launcher",
       "display_url": "popup.alanwsmith.com",
       "url": "https://popup.alanwsmith.com",
