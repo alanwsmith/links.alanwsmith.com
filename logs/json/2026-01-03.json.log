@@ -1,0 +1,20 @@
+{"timestamp":"2026-01-03T20:41:18.895719Z","level":"INFO","fields":{"message":"Initilizing"},"target":"ssb_0_9"}
+{"timestamp":"2026-01-03T20:41:18.895845Z","level":"INFO","fields":{"message":"Found port for web server: 5450"},"target":"ssb_0_9"}
+{"timestamp":"2026-01-03T20:41:18.895869Z","level":"INFO","fields":{"message":"Starting watcher"},"target":"simple_site_builder::watcher"}
+{"timestamp":"2026-01-03T20:41:18.895892Z","level":"INFO","fields":{"message":"Starting builder"},"target":"simple_site_builder::builder"}
+{"timestamp":"2026-01-03T20:41:18.895890Z","level":"INFO","fields":{"message":"Starting web server"},"target":"simple_site_builder::server"}
+{"timestamp":"2026-01-03T20:41:18.895930Z","level":"INFO","fields":{"message":"Building site on port 5450."},"target":"simple_site_builder::builder"}
+{"timestamp":"2026-01-03T20:41:18.895967Z","level":"INFO","fields":{"message":"Initial Pass: Loading File List..."},"target":"simple_site_builder::builder"}
+{"timestamp":"2026-01-03T20:41:18.895984Z","level":"INFO","fields":{"message":"Initial Pass: Copying files..."},"target":"simple_site_builder::builder"}
+{"timestamp":"2026-01-03T20:41:18.895988Z","level":"INFO","fields":{"message":"Initial Pass: Transform Files..."},"target":"simple_site_builder::builder"}
+{"timestamp":"2026-01-03T20:41:18.895987Z","level":"INFO","fields":{"message":"obtaining pathset","config_pathset":"[WatchedPath { path: \"content\", recursive: true }, WatchedPath { path: \"support\", recursive: true }]"},"target":"watchexec::sources::fs"}
+{"timestamp":"2026-01-03T20:41:18.896010Z","level":"ERROR","fields":{"message":"notify watch() error","err":"Error { kind: PathNotFound, paths: [\"content\"] }"},"target":"watchexec::sources::fs"}
+{"timestamp":"2026-01-03T20:41:18.896032Z","level":"ERROR","fields":{"message":"notify watch() error","err":"Error { kind: PathNotFound, paths: [\"support\"] }"},"target":"watchexec::sources::fs"}
+{"timestamp":"2026-01-03T20:41:18.896099Z","level":"INFO","fields":{"message":"Loading JSONs."},"target":"simple_site_builder::builder"}
+{"timestamp":"2026-01-03T20:41:18.897153Z","level":"INFO","fields":{"message":"Output Pass: Loading File List..."},"target":"simple_site_builder::builder"}
+{"timestamp":"2026-01-03T20:41:18.897151Z","level":"ERROR","fields":{"message":"runtime error","err":"Native fs watcher error"},"target":"watchexec::watchexec"}
+{"timestamp":"2026-01-03T20:41:18.897162Z","level":"INFO","fields":{"message":"Initial Pass: Copying files..."},"target":"simple_site_builder::builder"}
+{"timestamp":"2026-01-03T20:41:18.897165Z","level":"ERROR","fields":{"message":"runtime error","err":"Native fs watcher error"},"target":"watchexec::watchexec"}
+{"timestamp":"2026-01-03T20:41:18.897166Z","level":"INFO","fields":{"message":"Initial Pass: Transform Files..."},"target":"simple_site_builder::builder"}
+{"timestamp":"2026-01-03T20:41:18.897231Z","level":"INFO","fields":{"message":"Loading JSONs."},"target":"simple_site_builder::builder"}
+{"timestamp":"2026-01-03T20:41:18.897252Z","level":"INFO","fields":{"message":"Build complete. Reloading browser on port 5450."},"target":"simple_site_builder::builder"}

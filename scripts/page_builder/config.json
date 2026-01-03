@@ -7,6 +7,14 @@
 
   "links": [
     {
+      "name": "Background Texture Maker",
+      "display_url": "texture.alanwsmith.com",
+      "url": "https://texture.alanwsmith.com",
+      "description": [
+        "A little tool to make SVGs to add texture to your site backgrounds."
+      ]
+    },
+    {
       "name": "Ad Blocking /etc/hosts file",
       "display_url": "adblock.alanwsmith.com",
       "url": "https://adblock.alanwsmith.com",
