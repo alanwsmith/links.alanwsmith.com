@@ -1,0 +1,60 @@
+#####
+Initilizing
+  at: 2026-01-03T20:41:18.895754Z|I|src/bin/ssb-0-9.rs|28
+#####
+Found port for web server: 5450
+  at: 2026-01-03T20:41:18.895850Z|I|src/bin/ssb-0-9.rs|31
+#####
+Starting watcher
+  at: 2026-01-03T20:41:18.895873Z|I|src/watcher/mod.rs|27
+#####
+Starting builder
+  at: 2026-01-03T20:41:18.895901Z|I|src/builder/mod.rs|176
+#####
+Starting web server
+  at: 2026-01-03T20:41:18.895917Z|I|src/server/mod.rs|28
+#####
+Building site on port 5450.
+  at: 2026-01-03T20:41:18.895948Z|I|src/builder/mod.rs|48
+#####
+Initial Pass: Loading File List...
+  at: 2026-01-03T20:41:18.895971Z|I|src/builder/mod.rs|51
+#####
+Initial Pass: Copying files...
+  at: 2026-01-03T20:41:18.895987Z|I|src/builder/mod.rs|54
+#####
+Initial Pass: Transform Files...
+  at: 2026-01-03T20:41:18.895991Z|I|src/builder/mod.rs|60
+#####
+obtaining pathset [3mconfig_pathset[0m[2m=[0m[WatchedPath { path: "content", recursive: true }, WatchedPath { path: "support", recursive: true }]
+  at: 2026-01-03T20:41:18.896003Z|I|/Users/alan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/watchexec-8.0.1/src/sources/fs.rs|159
+#####
+notify watch() error [3merr[0m[2m=[0mError { kind: PathNotFound, paths: ["content"] }
+  at: 2026-01-03T20:41:18.896020Z|E|/Users/alan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/watchexec-8.0.1/src/sources/fs.rs|212
+#####
+Loading JSONs.
+  at: 2026-01-03T20:41:18.897136Z|I|src/builder/mod.rs|198
+#####
+notify watch() error [3merr[0m[2m=[0mError { kind: PathNotFound, paths: ["support"] }
+  at: 2026-01-03T20:41:18.897130Z|E|/Users/alan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/watchexec-8.0.1/src/sources/fs.rs|212
+#####
+Output Pass: Loading File List...
+  at: 2026-01-03T20:41:18.897158Z|I|src/builder/mod.rs|66
+#####
+runtime error [3merr[0m[2m=[0mNative fs watcher error
+  at: 2026-01-03T20:41:18.897161Z|E|/Users/alan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/watchexec-8.0.1/src/watchexec.rs|243
+#####
+Initial Pass: Copying files...
+  at: 2026-01-03T20:41:18.897165Z|I|src/builder/mod.rs|69
+#####
+runtime error [3merr[0m[2m=[0mNative fs watcher error
+  at: 2026-01-03T20:41:18.897170Z|E|/Users/alan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/watchexec-8.0.1/src/watchexec.rs|243
+#####
+Initial Pass: Transform Files...
+  at: 2026-01-03T20:41:18.897187Z|I|src/builder/mod.rs|75
+#####
+Loading JSONs.
+  at: 2026-01-03T20:41:18.897240Z|I|src/builder/mod.rs|198
+#####
+Build complete. Reloading browser on port 5450.
+  at: 2026-01-03T20:41:18.897258Z|I|src/builder/mod.rs|82
