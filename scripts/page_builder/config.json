@@ -39,27 +39,11 @@
       ]
     },
     {
-      "name": "Flexbox Notes",
-      "display_url": "flex.alanwsmith.com",
-      "url": "https://flex.alanwsmith.com",
-      "description": [
-        "My notes on how flexbox works in CSS"
-      ]
-    },
-    {
       "name": "SVG Scrubber",
       "display_url": "svg-scrubber.alanwsmith.com",
       "url": "https://svg-scrubber.alanwsmith.com",
       "description": [
         "A little app I wrote to clean up SVGs from the Concepts iPad app and give them light/dark mode. After building it, I discovered I didn't like the look and the app does all the formatting I need. Oh, well. Still fun to build."
-      ]
-    },
-    {
-      "name": "Neovim Menu",
-      "display_url": "neovim-menu.alanwsmith.com",
-      "url": "https://neovim-menu.alanwsmith.com",
-      "description": [
-        "A custom plugin I'm building to give me easy access to various task runners and external processes."
       ]
     },
     {
@@ -76,14 +60,6 @@
       "url": "https://html-sizes.alanwsmith.com",
       "description": [
         "A quick, visual reference for the various ways to get sizes and postions of HTML elements with JavaScript."
-      ]
-    },
-    {
-      "name": "Grid Web Component",
-      "display_url": "grid.alanwsmith.com",
-      "url": "https://grid.alanwsmith.com",
-      "description": [
-        "A web component to make grids that fill up a content area with cells that have minimum and maximum widths and a given aspect ratio"
       ]
     },
     {
@@ -112,8 +88,8 @@
     },
     {
       "name": "bitty web component",
-      "display_url": "bitty.alanwsmith.com",
-      "url": "https://bitty.alanwsmith.com",
+      "display_url": "bittyjs.com",
+      "url": "https://bittyjs.com",
       "description": [
         "A tiny web component. It uses signals to make web pages reactive. Designed for progressive enhancement."
       ]
@@ -151,27 +127,11 @@
       ]
     },
     {
-      "name": "Lists",
-      "display_url": "lists.alanwsmith.com",
-      "url": "https://lists.alanwsmith.com",
-      "description": [
-        "A place to collect lists. Mostly to use in other projects or examples or whatever."
-      ]
-    },
-    {
       "name": "Color Picker",
       "display_url": "color-picker.alanwsmith.com",
       "url": "https://color-picker.alanwsmith.com",
       "description": [
         "A color picker that generates OKLCH color pallets. It's a little confusing and optinionated right now, but it can get you started."
-      ]
-    },
-    {
-      "name": "AI Honeypot Builder",
-      "display_url": "ai-honeypot.alanwsmith.com",
-      "url": "https://ai-honeypot.alanwsmith.com",
-      "description": [
-        "A tool to build honeypot sites that poison unscrupulous AI scrapper bots"
       ]
     },
     {
@@ -250,10 +210,10 @@
     },
     {
       "name": "Bluesky",
-      "display_url": "bsky.app/profile/alanwsmith.com",
-      "url": "https://bsky.app/profile/alanwsmith.com",
+      "display_url": "bsky.app/profile/al9000.com",
+      "url": "https://bsky.app/profile/al9000.com",
       "description": [
-        "Bluesky feels like a cross between &quot;original good twitter&quot; and &quot;new, crappy, engagement bait twitter&quot;. I'm glad it exists even though I generally prefer mastodon"
+        "Bluesky feels like &quot;good old twitter&quot; Bonus points for being part of the Atmosphere which is dope."
       ]
     },
 
@@ -262,15 +222,7 @@
       "display_url": "hachyderm.io/@TheIdOfAlan",
       "url": "https://hachyderm.io/@TheIdOfAlan",
       "description": [
-        "My favorite social network. It took a while to get going on it. I've got a good list of folks I follow now. One of my favorite thigs about it is there's very little 'engagment bait' crap on it"
-      ]
-    },
-    {
-      "name": "Web Component Techniques",
-      "display_url": "web-component-techniques.alanwsmith.com",
-      "url": "https://web-component-techniques.alanwsmith.com/",
-      "description": [
-        "The place where I'm keeping my notes about how to work with web components"
+        "Another of the twitter altnatives I escaped to. Lots of folks have Strong Opinions about it vs Bluesky. I'm not one of those folks. I enjoy them both."
       ]
     },
     {
@@ -308,27 +260,11 @@
       ]
     },
     {
-      "name": "Waveform Display",
-      "display_url": "waveform.alanwsmith.com",
-      "url": "https://waveform.alanwsmith.com",
-      "description": [
-        "A work in progress. Making a waveform display to use when making screen recordings"
-      ]
-    },
-    {
       "name": "867-5309",
       "display_url": "867-5309.alanwsmith.com",
       "url": "https://867-5309.alanwsmith.com",
       "description": [
         "Quick link for the classic number. Can't belive someone owns 867-5309.com and isn't doing this with it. The main point of the page is to experiment with a technique for having a blurred background based off the video that's playing"
-      ]
-    },
-    {
-      "name": "Django Notes And Tutorials",
-      "display_url": "django.alanwsmith.com",
-      "url": "https://django.alanwsmith.com/",
-      "description": [
-        "I struggled a lot with the offical Django Tutorial. These are notes, boilerplates, and tutorials I put toghter to teach myself (and hopefully make it easier for other folks to learn)"
       ]
     },
     {
@@ -404,15 +340,6 @@
       ]
     },
     {
-      "name": "AWS API Price List Values",
-      "display_url": "aws-price-list-api-values.alanwsmith.com",
-      "url": "https://aws-price-list-api-values.alanwsmith.com/",
-      "description": [
-        "I had to dig through the AWS pricing APIs while working on an EC2 pricing comparison for blender rendering. It took a while to figure out how to get at the data. This is the initial data set you can use to filter requests. Hoping it helps save folks some time by not having to bang their heads against this part themselves"
-      ]
-    },
-
-    {
       "name": "The Name(s) Of My New Band",
       "display_url": "band-names.alanwsmith.com",
       "url": "https://band-names.alanwsmith.com/",
@@ -438,16 +365,6 @@
         "I got tired of trying to assemble Cloudinary urls. Took less time to make this than I spent trying to figure out how to apply text to an image by hand"
       ]
     },
-
-    {
-      "name": "D3 Playground",
-      "display_url": "d3-playground.alanwsmith.com",
-      "url": "https://d3-playground.alanwsmith.com/",
-      "description": [
-        "A place to mess around with D3. Just getting started on this one: TODO: Move this one to d3-cookbook"
-      ]
-    },
-
     {
       "name": "Your Device Pixel Ratio",
       "display_url": "dpr.alanwsmith.com",
@@ -462,16 +379,7 @@
       "display_url": "ec2-blender-renderer.alanwsmith.com",
       "url": "https://ec2-blender-renderer.alanwsmith.com/",
       "description": [
-        "Taking a look at what it would cost to use Amazon AWS EC2 cloud computers to render Blender 3D images"
-      ]
-    },
-
-    {
-      "name": "EC2 Simplified Price List",
-      "display_url": "ec2-price-list.alanwsmith.com",
-      "url": "https://ec2-price-list.alanwsmith.com/",
-      "description": [
-        "I finally got fed up with how difficult it is to figure out EC2 pricing so I put this together. (The specific goal at the time was to price out the different GPU instances to look at blender rendering.)"
+        "NOTE: This page is a few years old now (I really need to put a date on it). Taking a look at what it would cost to use Amazon AWS EC2 cloud computers to render Blender 3D images"
       ]
     },
 
@@ -567,16 +475,6 @@
     },
 
     {
-      "name": "Letters, Letters, Letters!",
-      "display_url": "letters.alanwsmith.com",
-      "url": "https://letters.alanwsmith.com/",
-      "description": [
-        "You're number one source for links to my letters of the alphabet\nsites. I made them as part of my &quot;<a href=\"https://subdomains.alanwsmith.com/\">How To Grow Your Digital Garden With Sub-Domains</a>&quot; post. (Here's direct letter access if you're looking for that: <a href=\"https://a.alanwsmith.com/\">a</a>,\n          <a href=\"https://b.alanwsmith.com/\">b</a>,\n          <a href=\"https://c.alanwsmith.com/\">c</a>,\n          <a href=\"https://d.alanwsmith.com/\">d</a>,\n          <a href=\"https://e.alanwsmith.com/\">e</a>,\n          <a href=\"https://f.alanwsmith.com/\">f</a>,\n          <a href=\"https://g.alanwsmith.com/\">g</a>,\n          <a href=\"https://h.alanwsmith.com/\">h</a>,\n          <a href=\"https://i.alanwsmith.com/\">i</a>,\n          <a href=\"https://j.alanwsmith.com/\">j</a>,\n          <a href=\"https://k.alanwsmith.com/\">k</a>,\n          <a href=\"https://l.alanwsmith.com/\">l</a>,\n          <a href=\"https://m.alanwsmith.com/\">m</a>,\n          <a href=\"https://n.alanwsmith.com/\">n</a>,\n          <a href=\"https://o.alanwsmith.com/\">o</a>,\n          <a href=\"https://p.alanwsmith.com/\">p</a>,\n          <a href=\"https://q.alanwsmith.com/\">q</a>,\n          <a href=\"https://r.alanwsmith.com/\">r</a>,\n          <a href=\"https://s.alanwsmith.com/\">s</a>,\n          <a href=\"https://t.alanwsmith.com/\">t</a>,\n          <a href=\"https://u.alanwsmith.com/\">u</a>,\n          <a href=\"https://v.alanwsmith.com/\">v</a>,\n          <a href=\"https://w.alanwsmith.com/\">w</a>,\n          <a href=\"https://x.alanwsmith.com/\">x</a>,\n          <a href=\"https://y.alanwsmith.com/\">y</a>,\n          <a href=\"https://z.alanwsmith.com/\">z</a>. )"
-      ],
-      "type": "main"
-    },
-
-    {
       "name": "Manic Scroll",
       "display_url": "manic-scroll.alanwsmith.com",
       "url": "http://manic-scroll.alanwsmith.com/",
@@ -624,16 +522,6 @@
         "A little game where you decrypt texts (Currently Offline)"
       ],
       "type": "strike"
-    },
-
-    {
-      "name": "Next.js Playground",
-      "display_url": "nextjs-playground.alanwsmith.com",
-      "url": "https://nextjs-playground.alanwsmith.com/",
-      "description": [
-        "My place to mess around with NextJs to figure out how it works - TODO: Move to Next.js Cookbook"
-      ],
-      "type": "main"
     },
 
     {
@@ -707,26 +595,6 @@
     },
 
     {
-      "name": "The Slides Of Alan",
-      "display_url": "slides.alanwsmith.com",
-      "url": "https://slides.alanwsmith.com/",
-      "description": [
-        "This one is aspirational. The idea is to put slide decks here for talks and videos. Though, there's a good chance each slide deck will end up on it's own sub-domain so I've got the option of using different tech for each one"
-      ],
-      "type": "main"
-    },
-
-    {
-      "name": "Static HTML Site Template",
-      "display_url": "static-template.alanwsmith.com",
-      "url": "https://static-template.alanwsmith.com/",
-      "description": [
-        "This was an earlier template I used for starting new static sites on a sub-domain. I don't use it any more. It's just here for reference. See the &quot;HTML Template&quot; above for the one I'm using now"
-      ],
-      "type": "main"
-    },
-
-    {
       "name": "SurfTech.tv",
       "display_url": "surftech.tv",
       "url": "https://www.surftech.tv/",
@@ -737,51 +605,11 @@
     },
 
     {
-      "name": "Tailwind Playground",
-      "display_url": "tailwind-playground.alanwsmith.com",
-      "url": "https://tailwind-playground.alanwsmith.com/",
-      "description": [
-        "Messing around with TailwindCSS to figure out how things work"
-      ],
-      "type": "main"
-    },
-
-    {
-      "name": "Tutorial Thoughts",
-      "display_url": "tutorial-thoughts.alanwsmith.com",
-      "url": "https://tutorial-thoughts.alanwsmith.com/",
-      "description": [
-        "I find most coding tutorials frustrating. This is my place to\nexperiment with layouts, designs, and concepts that work with the way\nmy brain works"
-      ],
-      "type": "main"
-    },
-
-    {
       "name": "Typing Rust",
       "display_url": "typing-rust.alanwsmith.com",
       "url": "https://typing-rust.alanwsmith.com/",
       "description": [
         "This is my original Rust Notes site where I was going to have a tool to help you type code examples in correctly. I'm punting on it in favor of <a href=\"https://rust-notes.alanwsmith.com/\">Rust Notes</a>"
-      ],
-      "type": "main"
-    },
-
-    {
-      "name": "Rust Notes",
-      "display_url": "rust-notes.alanwsmith.com",
-      "url": "https://rust-notes.alanwsmith.com/",
-      "description": [
-        "My collection of notes for learning Rust. Publishing the entire set as a stand alone site to help me learn better through the process of writing"
-      ],
-      "type": "main"
-    },
-
-    {
-      "name": "Yabai Automation",
-      "display_url": "yabai.alanwsmith.com",
-      "url": "https://yabai.alanwsmith.com/",
-      "description": [
-        "I use <a href=\"https://github.com/koekeishiya/yabai\">Yabai</a> as a\ntiling window manager on my mac. This page has some scripts I use to\nautomatically move windows around based on which monitors I have\nconnected and what I'm doing"
       ],
       "type": "main"
     }
